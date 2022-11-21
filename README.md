@@ -5,6 +5,7 @@
 Webアプリケーション開発者。3年目。
 
 ---
+### スキルセット
 ソフトウェア設計
 - オブジェクト指向設計 / ドメイン駆動設計 / テスト駆動開発
 
@@ -12,9 +13,9 @@ Webアプリケーション開発者。3年目。
 - HTML / CSS / JavaScript / jQuery / Bootstrap
 
 バックエンド
-- フレームワーク等
+- フレームワーク
   - .NET (C#) / ASP.NET Core MVC / Web API / Blazor
-- クラウド: Azure
+- クラウドサービス: Microsoft Azure
   - App Service / Functions / Logic Apps
   - Table Storage / Blob Storage / SQL Database
   - Azure AD / Azure AD B2C
@@ -24,18 +25,20 @@ Webアプリケーション開発者。3年目。
 - Visual Studio / Visual Studio Code
 - Azure Devops / SourceTree / GitHub
 - Microsoft Office / Power BI / Power Automate
-- Postman / CodePen / DeepL
+- draw.io / Postman / CodePen / DeepL
 
 ---
-実務経験
+### 実務経験
 - ソフトウェア・Webシステム・クラウドアーキテクチャ設計
 - Webサービス / Web API 開発
 - 興味のあるトレンド技術情報共有サービスの開発
+- 音声認識とニューラル音声を使った翻訳システムの開発
 - データの収集 / 永続化 / 可視化
 - 遠隔監視システムの開発
 - Webサービスのアクセス解析基盤の構築
+- 在籍管理システムの開発
 - メール配信システムの開発
-- クラウドサービス Azure のコスト分析
+- Azure リソースのコスト分析
 - サインイン・サインアップなどの認証と認可基盤の構築
 
 
