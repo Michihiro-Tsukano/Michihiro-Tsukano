@@ -7,7 +7,9 @@ Webアプリケーション開発者。3年目。
 ---
 ### スキルセット
 ソフトウェア設計
-- オブジェクト指向設計 / ドメイン駆動設計 / テスト駆動開発
+- オブジェクト指向プログラミング
+- ドメイン駆動設計
+- テスト駆動開発
 
 フロントエンド
 - HTML / CSS / JavaScript / jQuery / Bootstrap
@@ -25,7 +27,7 @@ Webアプリケーション開発者。3年目。
 - Visual Studio / Visual Studio Code
 - Azure Devops / SourceTree / GitHub
 - Microsoft Office / Power BI / Power Automate
-- draw.io / Postman / CodePen / DeepL
+- draw.io / Postman / CodePen / DeepL / Miro / Qiita
 
 ---
 ### 実務経験
