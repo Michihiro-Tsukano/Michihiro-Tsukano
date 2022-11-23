@@ -2,7 +2,8 @@
 
 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ
 
-Webアプリケーション開発者。3年目。
+Webアプリケーション開発者。3年目。<br>
+[Roland DG Corporation](https://www.rolanddg.com/) → [社員インタビュー](https://www.rolanddg.com/ja/recruit/person/interview/new-graduate-01)
 
 ---
 ### スキルセット
