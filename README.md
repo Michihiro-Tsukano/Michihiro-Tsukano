@@ -43,6 +43,27 @@ Webアプリケーション開発者。3年目。
 - Azure リソースのコスト分析と予測
 - サインイン・サインアップなどの認証と認可基盤の構築
 
+---
+### 趣味
+- 技術のキャッチアップ
+  - アプリ作ったり、ちょこっとコード書いたり
+  - 技術書や Udemy
+  - 大学の研究室の研究課題などの取り組み
+- Qiitaで技術記事の執筆
+  - 記事数: 63
+  - Contributions: 952
+- 歌うこと・音楽を聴くこと
+  - カラオケ（3年間の猛練習により、DAM採点 72点 → 95点）
+  - 歌ってみたなどの活動（レコーディングやミキシング等）
+- プログラミング教育
+  - Scratch
+  - Minecraft
+- その他
+  - ゲーム実況者（兄者弟者）
+  - ドローン（DJI の Tello 所持）
+  - 3Dプリンター（FLASHFORGE の Adventurer3 所持）
+  - ルービックキューブ（揃えるのに3分くらい）
+  - ペン回し（ハーモニック練習中）
 
 <!--
 **Michihiro-Tsukano/Michihiro-Tsukano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
