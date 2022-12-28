@@ -26,9 +26,9 @@ Webアプリケーション開発者。3年目。<br>
 
 ツール
 - Visual Studio / Visual Studio Code
-- Azure Devops / SourceTree / GitHub
+- Azure Portal / Azure Devops / SourceTree / GitHub
 - Microsoft Office / Power BI / Power Automate
-- draw.io / Postman / CodePen / DeepL / Miro / Qiita
+- draw.io / Postman / DeepL / Miro / Qiita / CodePen / CSSBattle
 
 ---
 ### 実務経験
@@ -54,8 +54,8 @@ Webアプリケーション開発者。3年目。<br>
   - アプリ作ったり、ちょこっとコード書いたり
   - 技術書やUdemy
 - Qiitaで技術記事の執筆
-  - 記事数: 63
-  - Contributions: 952
+  - 記事数: 65
+  - Contributions: 963
 - 歌うこと・音楽を聴くこと
   - カラオケ（3年間の猛練習により、DAM採点 72点 → 95点）
   - レコーディング・ミキシング等
