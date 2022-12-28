@@ -53,7 +53,6 @@ Webアプリケーション開発者。3年目。<br>
 - 技術のキャッチアップ
   - アプリ作ったり、ちょこっとコード書いたり
   - 技術書やUdemy
-  - 大学の研究室の研究課題などの取り組み
 - Qiitaで技術記事の執筆
   - 記事数: 63
   - Contributions: 952
@@ -69,6 +68,20 @@ Webアプリケーション開発者。3年目。<br>
   - 3Dプリンター（FLASHFORGE の Adventurer3 所持）
   - ルービックキューブ（揃えるのに3分くらい）
   - ペン回し（ハーモニック練習中）
+
+---
+### 事例
+静岡大学 峰野研究室: 見える化の取り組み
+- ラズパイ2つと各種センサーによるデータ収集システムの開発
+- Azure を使ったデータの蓄積と Web サービスの開発
+
+![image](https://user-images.githubusercontent.com/118739676/209763384-c59c4f0f-6c1e-4171-8103-259578b1a730.png)
+![image](https://user-images.githubusercontent.com/118739676/209763441-4a2fe28f-d286-497c-aefa-6ac7a95166ed.png)
+![image](https://user-images.githubusercontent.com/118739676/209763532-dae4310c-84ff-4991-95ce-626d606f2cce.png)
+![image](https://user-images.githubusercontent.com/118739676/209763566-e4e69732-6ad1-4a11-b4cd-8e3652b53907.png)
+
+
+
 
 <!--
 **Michihiro-Tsukano/Michihiro-Tsukano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
