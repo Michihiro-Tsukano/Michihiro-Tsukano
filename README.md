@@ -78,11 +78,9 @@ Webアプリケーション開発者。3年目。<br>
 - Raspberry Pi 2つと各種センサーによるデータ収集システムの開発
 - Azureを使ったデータの蓄積とWebサービスの開発
 
-![image](https://user-images.githubusercontent.com/118739676/209763384-c59c4f0f-6c1e-4171-8103-259578b1a730.png)
-![image](https://user-images.githubusercontent.com/118739676/209763441-4a2fe28f-d286-497c-aefa-6ac7a95166ed.png)
+![image](https://user-images.githubusercontent.com/118739676/209767125-693547e7-685c-4af1-abbe-baec3a7d4d6e.png)
 ![image](https://user-images.githubusercontent.com/118739676/209763880-53172529-744f-4cc1-9527-c52765c87567.png)
 ![image](https://user-images.githubusercontent.com/118739676/209763566-e4e69732-6ad1-4a11-b4cd-8e3652b53907.png)
-
 
 
 
