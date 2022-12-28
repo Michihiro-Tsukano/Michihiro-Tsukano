@@ -76,13 +76,12 @@ Webアプリケーション開発者。3年目。<br>
 ### 事例紹介
 静岡大学 峰野研究室: 見える化の取り組み
 - Raspberry Pi 2つと各種センサーによるデータ収集システムの開発
-- Azureを使ったデータの蓄積とWebサービスの開発
+- Azureを使ったデータの蓄積基盤の構築
+- ASP.NET Core MVCを使ったWebサービスの開発
+  - デプロイ先URL: https://testwebmt.azurewebsites.net/
 
 ![image](https://user-images.githubusercontent.com/118739676/209767510-5ce1cd40-e97e-4179-a9da-83f9c0bbf18a.png)
-![image](https://user-images.githubusercontent.com/118739676/209763880-53172529-744f-4cc1-9527-c52765c87567.png)
-![image](https://user-images.githubusercontent.com/118739676/209763566-e4e69732-6ad1-4a11-b4cd-8e3652b53907.png)
-
-
+![image](https://user-images.githubusercontent.com/118739676/209767904-49e4a506-12a4-48de-b871-9c4843e560bb.png)
 
 <!--
 **Michihiro-Tsukano/Michihiro-Tsukano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
