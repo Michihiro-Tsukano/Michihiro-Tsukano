@@ -92,7 +92,7 @@
 
 ☆関東学院大学（塚田研究室）：暗号通貨シミュレータの開発（2019年6月～11月）
 - ブロックチェーン技術を用いた電子的な通貨の取引の流れをシミュレートしたアプリケーションを開発
-- 一般社団法人神奈川県情報サービス産業協会主催の「学生ITコンテスト2019」で優秀賞を受賞 [[記事]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)
+- 一般社団法人神奈川県情報サービス産業協会主催の「学生ITコンテスト2019」ITプロダクツ部門で優秀賞を受賞 [[記事]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)
 - 動作確認はこちらから → https://michimichix521.github.io/CryptoCurrencySimulator/
 
 ![image](https://user-images.githubusercontent.com/118739676/215785174-f3d7ae04-c946-477b-97a7-f34765ae55b0.png)
