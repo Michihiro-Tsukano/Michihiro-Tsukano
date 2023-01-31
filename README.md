@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 ![image](https://user-images.githubusercontent.com/118739676/209766026-cb5bc9ac-c7a9-4b65-995f-f7218a52831b.png)
 
 基本情報
@@ -79,21 +77,21 @@
 - Raspberry Pi 2つと各種センサーによるデータ収集システムを開発
 - Azureを使ったデータ蓄積基盤を構築
 - ASP.NET Core MVCを使ったWebサービスを開発
-  - デプロイ先URL: https://testwebmt.azurewebsites.net/
+  - デプロイ先URL: https://testwebmt.azurewebsites.net
 
 ![image](https://user-images.githubusercontent.com/118739676/209767510-5ce1cd40-e97e-4179-a9da-83f9c0bbf18a.png)
 ![image](https://user-images.githubusercontent.com/118739676/209767904-49e4a506-12a4-48de-b871-9c4843e560bb.png)
 
 ☆DGSHAPE株式会社：DGSHAPE CLOUD の開発（2022年4月6日に DGSHAPE Insights をリリース）
 - 切削加工機から収集したデータを活用し、ユーザーの生産性向上を目指したプラットフォームを開発
-- 製品ページはこちらから → https://dgshape.com/ja/cloud-dental/
+- 製品ページはこちらから → https://dgshape.com/ja/cloud-dental
 
 ![image](https://user-images.githubusercontent.com/118739676/215790555-14702aa1-3dd6-475d-b204-fccb0489478f.png)
 
 ☆関東学院大学（塚田研究室）：暗号通貨シミュレータの開発（2019年6月～11月）
 - ブロックチェーン技術を用いた電子的な通貨の取引の流れをシミュレートしたアプリケーションを開発
 - 一般社団法人神奈川県情報サービス産業協会主催の「学生ITコンテスト2019」ITプロダクツ部門で優秀賞を受賞 [[記事]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)
-- 動作確認はこちらから → https://michimichix521.github.io/CryptoCurrencySimulator/
+- 動作確認はこちらから → https://michimichix521.github.io/CryptoCurrencySimulator
 
 ![image](https://user-images.githubusercontent.com/118739676/215785174-f3d7ae04-c946-477b-97a7-f34765ae55b0.png)
 
