@@ -42,7 +42,7 @@
 ---
 ### 開発経験
 - 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
-- 音声認識とニューラル音声を使った翻訳システムの開発（Cognitive Services）
+- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
 - 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
 - Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
 - 休暇連絡システムの開発（Power Automate）
