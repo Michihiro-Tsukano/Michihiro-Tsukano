@@ -2,10 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/118739676/209766026-cb5bc9ac-c7a9-4b65-995f-f7218a52831b.png)
 
-基本情報
-- 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ
-- メーカーのエンジニア3年目（アプリ屋さん）
-- 学士（理工学：情報学系）→ 2023年4月から大学院修士課程（情報学専攻）
+### 基本情報
+- 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ / 神奈川県出身
+- メーカーのエンジニア5年目（Web・クラウド・AI）
+- 学士（理工学：情報学系）→ 大学院修士課程（情報学専攻）2025/03 修了予定
 
 [Roland DG Corporation](https://www.rolanddg.com/) → [社員インタビュー](https://www.rolanddg.com/ja/recruit/person/interview/new-graduate-01/)
 
@@ -20,81 +20,64 @@
 - HTML / CSS / JavaScript / jQuery / Bootstrap
 
 バックエンド
+- プログラミング言語
+  - C# / Python
 - フレームワーク
-  - .NET (C#) / ASP.NET Core MVC / Web API / Blazor
+  - .NET / ASP.NET Core MVC / Blazor
 - クラウドサービス: Microsoft Azure
-    - Virtual Machines / Bastion
-    - Functions / App Service / Logic Apps / Application Insights
-    - Blob Storage / Table Storage / SQL Server / SQL Database
-    - Azure Active Directory / Azure AD B2C
-    - Cognitive Services / IoT Hub / Twilio SendGrid
+  - Virtual Machines / Bastion
+  - Functions / App Service / Logic Apps / Application Insights
+  - Blob Storage / Table Storage / SQL Server / SQL Database
+  - Azure Active Directory / Azure AD B2C
+  - Cognitive Services / IoT Hub / Twilio SendGrid
 
-ツール
+ツール・ライブラリ
 - Visual Studio / Visual Studio Code
 - Azure Portal / Azure Devops / SourceTree / GitHub
 - Microsoft Office / Power BI / Power Automate
-- draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT
+- draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Coplilot
+- scilit-learn / TensorFlow / Keras
+- SignalR
 
 ---
-### 実務経験
-- 興味のあるトレンド技術情報共有サービスを開発
-- 音声認識とニューラル音声を使った翻訳システムを開発
-- 切削加工機の稼働状況を見える化
-- Webサービスのアクセス解析基盤の構築と見える化
-- 在籍管理システムを開発
-- 切削加工機の稼働レポートをメールで配信するシステムを開発
-- Microsoft Azureのリソースのコスト分析と予測
-- Azure AD B2Cを使ったサインアップ・サインイン等の認証基盤を構築
-- Microsoft Graph APIを使ったユーザー情報更新システムを開発
-- 仮想的な切削加工機稼働システムを構築
-- ローカライズ（多言語化）システムを構築
+### 開発経験
+- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
+- 音声認識とニューラル音声を使った翻訳システムの開発（Cognitive Services）
+- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
+- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
+- 休暇連絡システムの開発（Power Automate）
+- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
+- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
+- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
+- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
+- 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
+- ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
+- クラスタリングを用いたスピンドル異常検知 API の開発（scilit-learn, Functions）
+- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
+- オートエンコーダを用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
+- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
 
 ---
 ### 趣味
 - 技術のキャッチアップ
   - アプリ作ったり、ちょこっとコード書いたり
-  - 技術書やUdemy
-  - 資格取得のための勉強
+  - 技術書やUdemy、Web上の学習ドキュメント
 - Qiitaで技術記事の執筆
-  - 記事数: 65
-  - Contributions: 9
+  - 記事数：70
+  - Contributions：1022
 - 歌うこと・音楽を聴くこと
-  - カラオケ（3年間の猛練習により、DAM採点 72点 → 95点）
+  - カラオケ
   - レコーディング・ミキシング等
 - プログラミング教育
   - Scratch
   - Minecraft
+- ペット飼育
+  - 熱帯魚 / ゴールデンハムスター / フェレット
 - その他
   - ゲーム実況者（兄者弟者）
   - ドローン（DJI の Tello 所持）
   - 3Dプリンター（FLASHFORGE の Adventurer3 所持）
-  - ルービックキューブ（揃えるのに3分くらい）
-  - ペン回し（ハーモニック練習中）
-
----
-### 事例紹介
-☆静岡大学 峰野研究室：見える化の取り組み（2022年6月～9月）
-- Raspberry Pi 2つと各種センサーによるデータ収集システムを開発
-- Azureを使ったデータ蓄積基盤を構築
-- ASP.NET Core MVCを使ったWebサービスを開発
-  - デプロイ先URL: https://testwebmt.azurewebsites.net
-
-![image](https://user-images.githubusercontent.com/118739676/209767510-5ce1cd40-e97e-4179-a9da-83f9c0bbf18a.png)
-![image](https://user-images.githubusercontent.com/118739676/209767904-49e4a506-12a4-48de-b871-9c4843e560bb.png)
-
-☆DGSHAPE株式会社：DGSHAPE CLOUD の開発（2022年4月6日に DGSHAPE Insights をリリース）
-- 歯科用切削加工機から収集したデータを活用し、ユーザーの生産性向上を目指したプラットフォームを開発
-- 製品ページはこちらから → https://dgshape.com/ja/cloud-dental
-
-![image](https://user-images.githubusercontent.com/118739676/215790555-14702aa1-3dd6-475d-b204-fccb0489478f.png)
-
-☆関東学院大学 塚田研究室：暗号通貨シミュレータの開発（2019年6月～11月）
-- ブロックチェーン技術を用いた電子的な通貨の取引の流れをシミュレートしたアプリケーションを開発
-- 一般社団法人神奈川県情報サービス産業協会主催の「学生ITコンテスト2019」ITプロダクツ部門で優秀賞を受賞 [[記事]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)
-- 動作確認はこちらから → https://michimichix521.github.io/CryptoCurrencySimulator
-
-![image](https://user-images.githubusercontent.com/118739676/215785174-f3d7ae04-c946-477b-97a7-f34765ae55b0.png)
-
+  - ルービックキューブ
 
 <!--
 **Michihiro-Tsukano/Michihiro-Tsukano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
