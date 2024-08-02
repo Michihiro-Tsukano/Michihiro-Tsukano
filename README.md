@@ -52,7 +52,7 @@
 - Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
 - 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
 - ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
-- クラスタリングを用いたスピンドル異常検知 API の開発（scilit-learn, Functions）
+- クラスタリングを用いたスピンドル異常検知手法・API の開発（scilit-learn, Functions）
 - OC-SVM を用いた転倒検知手法の開発（scilit-learn）
 - オートエンコーダを用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
 - SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
