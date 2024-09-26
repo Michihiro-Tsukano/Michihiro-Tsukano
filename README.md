@@ -91,7 +91,7 @@
 |2019.09|株式会社GIFMAGAZINE、アドビシステムズ株式会社主催のtheGIFs2019 Award of GIF creatorで「回転率！」を発表 [[link]](https://gifmagazine.co.jp/pr/?p=11019)|
 |2019.04|関東学院大学理工学部理工学科情報ネット・メディアコースの授業「コンピュータプログラミングⅢ」「基礎電気回路及び演習」のSA/TA業務に従事（～2019.07）|
 |2018.12|NTTデータジェトロニクス株式会社のインターンシップに参加し、ブロックチェーン技術に関する業務に従事（2日間）|
-|2018.11|NHK for School主催のワイワイプログラミングWhy!?大喜利で「目と耳で判断しろ！計算記号当てゲーム」に関して発表し、**入賞受賞** [[link]](https://www.nhk.or.jp/school/programming/oogiri/works_26.html)|
+|2018.11|NHK for School主催のワイワイプログラミングWhy!?大喜利で「目と耳で判断しろ！計算記号当てゲーム」に関して発表し、**入賞受賞**（T__michiさん） [[link]](https://www.nhk.or.jp/school/programming/oogiri/works_26.html)|
 |2018.10|関東学院大学理工学部理工学科情報ネット・メディアコース ネットワークセキュリティ研究室（塚田研究室）に配属 [[link]](http://home.kanto-gakuin.ac.jp/~tsukada/tsukada-lab/index.html)|
 |2018.08|ローランド ディー.ジー.株式会社のDGSHAPEインターンシップに参加し、アプリ開発業務に従事（1か月間） [[link]](https://www.rolanddg.com/ja/recruit/internship)|
 |2018.04|株式会社LITALICOで、プログラミング講師業務に従事（～2020.03） [[link]](https://wonder.litalico.jp/)|
