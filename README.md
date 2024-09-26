@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/118739676/209766026-cb5bc9ac-c7a9-4b65-995f-f7218a52831b.png)
+<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" width="500">
 
 ### 基本情報
 - 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ / 神奈川県出身
