@@ -76,7 +76,7 @@
 |2024.09|一般社団法人情報処理学会、電子情報通信学会（ISS・HCG）主催の第23回情報科学技術フォーラム（FIT2024）で「オートエンコーダとOC-SVMを用いた転倒検出手法の開発」に関して口頭発表し、**FIT奨励賞受賞** [[大学]](https://www.inf.shizuoka.ac.jp/news/3117/) [[学会]](https://www.ipsj.or.jp/award/fit-syorei.html)|
 |2023.12|静岡大学情報学部主催の第21回情報学ワークショップ（WiNF2023）で「OC-SVMを用いた転倒検知手法の検討」に関してポスター発表 [[link]](https://sites.google.com/view/winf2023/home)|
 |2023.04|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）に配属 [[link]](https://wwp.shizuoka.ac.jp/minelab/)|
-|2023.04|【修士課程】静岡大学大学院総合科学技術研究科情報学専攻（社会人再教育のための特別プログラム）に入学 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
+|2023.04|静岡大学大学院総合科学技術研究科情報学専攻（社会人再教育のための特別プログラム）に入学【修士課程】 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
 |2022.06|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）の研究補助（～2023/03）|
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
 |2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
@@ -95,7 +95,7 @@
 |2018.10|関東学院大学理工学部理工学科情報ネット・メディアコース ネットワークセキュリティ研究室（塚田研究室）に配属 [[link]](http://home.kanto-gakuin.ac.jp/~tsukada/tsukada-lab/index.html)|
 |2018.08|ローランド ディー.ジー.株式会社のDGSHAPEインターンシップに参加し、アプリ開発業務に従事（1か月間） [[link]](https://www.rolanddg.com/ja/recruit/internship)|
 |2018.04|株式会社LITALICOで、プログラミング講師業務に従事（～2020.03） [[link]](https://wonder.litalico.jp/)|
-|2016.04|【学士課程】関東学院大学理工学部理工学科情報ネット・メディアコースに入学 [[link]](https://netmedia.kanto-gakuin.ac.jp/)|
+|2016.04|関東学院大学理工学部理工学科情報ネット・メディアコースに入学【学士課程】 [[link]](https://netmedia.kanto-gakuin.ac.jp/)|
 
 <!--
 **Michihiro-Tsukano/Michihiro-Tsukano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
