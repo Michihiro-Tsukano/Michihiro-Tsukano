@@ -48,7 +48,7 @@
   - [2017.04] SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（~2018.03）[[link]](https://www.seal-musicschool.jp/)
   - [2017.08] NHKのど自慢大会 予選出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)
 - ゲーム
-  - [2012.04 ~ 2013.03] PHANTASY STAR PORTABLE INFINITY 2、プレイ時間 2500 時間 [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)
+  - [2012.04 ~ 2013.03] PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間 [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)
   - [2013.03 ~ 2016.03] パズドラ、ランク 846、王冠 6
   - [2013.04 ~ 現在] クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812
     - [2024.02] Eスポーツ：Clash Champs - TOWN HALL 15 TROPHY RACE 出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)
