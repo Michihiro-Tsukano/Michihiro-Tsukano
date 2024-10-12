@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" width="500">
 
-### 基本情報
+## 基本情報
 - 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ / 神奈川県出身
 - 普通自動車第一種運転免許（AT限定）
 - メーカーのエンジニア5年目（Web・クラウド・AI）
@@ -10,8 +10,9 @@
 
 [Roland DG Corporation](https://www.rolanddg.com/) → [社員インタビュー](https://recruit.rolanddg.com/ja/person/interview/new-graduate-01/)
 
----
-### スキルセット
+<br>
+
+## スキルセット
 ソフトウェア設計
 - オブジェクト指向プログラミング
 - ドメイン駆動設計
@@ -40,8 +41,9 @@
 - scilit-learn / TensorFlow / Keras
 - SignalR
 
----
-### 開発経験
+<br>
+
+## 開発経験
 - 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
 - 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
 - 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
@@ -59,8 +61,9 @@
 - SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
 - オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
 
----
-### 活動履歴（コンピュータサイエンス関係）
+<br>
+
+## 活動履歴（コンピュータサイエンス関係）
 |年月|概要|
 |:--|:--|
 |2024.09|一般社団法人情報処理学会、電子情報通信学会（ISS・HCG）主催の第23回情報科学技術フォーラム（FIT2024）で「オートエンコーダとOC-SVMを用いた転倒検出手法の開発」に関して口頭発表し、**FIT奨励賞受賞** [[大学]](https://www.inf.shizuoka.ac.jp/news/3117/) [[学会]](https://www.ipsj.or.jp/award/fit-syorei.html)|
@@ -87,22 +90,32 @@
 |2018.04|株式会社LITALICOで、プログラミング講師業務に従事（～2020.03） [[link]](https://wonder.litalico.jp/)|
 |2016.04|関東学院大学理工学部理工学科情報ネット・メディアコースに入学【学士課程】 [[link]](https://netmedia.kanto-gakuin.ac.jp/)|
 
----
-### 趣味
-- 歌うこと・音楽を聴くこと
-  - カラオケ・レコーディング・ミキシング等
-    - DAM 精密採点における最高得点：95.808 点、DEEP："君じゃない誰かなんて～Tejina～"（2023.01）  
-  - [2013.04] 音楽アプリやTwitter、YouTube 等で歌ってみた活動（～2018.06）
-  - [2017.04] SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（~2018.03）[[link]](https://www.seal-musicschool.jp/)
-  - [2017.08] NHKのど自慢大会 予選出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)
-- ゲーム
-  - [2011.04 ~ 2013.03] PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間 [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)
-  - [2013.03 ~ 2016.03] パズドラ、ランク 846、王冠 6
-  - [2013.04 ~ 現在] クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812
-    - [2024.02] Eスポーツ：Clash Champs - TOWN HALL 15 TROPHY RACE 出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)
-- 武道
-  - [2004.04 ~ 2010.03] 空手（東真会）、初段 [[link]](https://toshinkai.jp/)
-  - [2010.04 ~ 2013.03] 剣道、二段 [[link]](https://www.kendo.or.jp/)
+<br>
+
+## 趣味
+### 歌うこと・音楽を聴くこと
+|年月|概要|
+|:--|:--|
+|2023.01|カラオケDAM精密採点における最高得点：**95.808** 点を取得（DEEP："君じゃない誰かなんて～Tejina～"）|
+|2017.08|NHKのど自慢大会の予選に出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)|
+|2017.04|SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（～2018.03）[[link]](https://www.seal-musicschool.jp/)|
+|2013.04|音楽アプリやTwitter、YouTube 等で歌ってみた活動（～2018.06）|
+
+### ゲーム
+|年月|概要|
+|:--|:--|
+|2024.02|クラッシュオブクランのeスポーツ：Clash Champs - TOWN HALL 15 TROPHY RACE に出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)|
+|2013.04|クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812（～現在）|
+|2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
+|2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
+
+### 武道
+|年月|概要|
+|:--|:--|
+|2010.04|剣道、二段（～2013.03） [[link]](https://www.kendo.or.jp/)|
+|2004.04|空手（東真会）、初段（～2010.03） [[link]](https://toshinkai.jp/)|
+
+### その他
 - Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）
 - ペット飼育（熱帯魚、ゴールデンハムスター、フェレット）
 
