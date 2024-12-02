@@ -7,6 +7,7 @@
 - 普通自動車第一種運転免許（AT限定）
 - メーカーのエンジニア5年目（Web・クラウド・AI）
 - 学士（理工学：情報学系）→ 大学院修士課程（情報学専攻）2025/03 修了予定
+- 連絡先：michimichix521@gmail.com
 
 [Roland DG Corporation](https://www.rolanddg.com/) → [社員インタビュー](https://recruit.rolanddg.com/ja/person/interview/new-graduate-01/)
 
