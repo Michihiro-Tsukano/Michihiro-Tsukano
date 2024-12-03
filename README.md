@@ -7,9 +7,10 @@
 - 普通自動車第一種運転免許（AT限定）
 - メーカーのエンジニア5年目（Web・クラウド・AI）
 - 学士（理工学：情報学系）→ 大学院修士課程（情報学専攻）2025/03 修了予定
-- 連絡先：michimichix521@gmail.com
 
 [Roland DG Corporation](https://www.rolanddg.com/) → [社員インタビュー](https://recruit.rolanddg.com/ja/person/interview/new-graduate-01/)
+
+連絡先：michimichix521@gmail.com
 
 <br>
 
@@ -45,6 +46,9 @@
 <br>
 
 ## 開発経験
+- 計算記号当てゲームの開発（Scratch）
+- 秘密計算を用いた進路評価モデルの開発（Python）
+- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
 - 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
 - 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
 - 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
@@ -60,7 +64,8 @@
 - OC-SVM を用いた転倒検知手法の開発（scilit-learn）
 - 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
 - SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
-- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
+- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
+- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
 
 <br>
 
