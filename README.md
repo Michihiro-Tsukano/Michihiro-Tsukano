@@ -99,7 +99,7 @@
 
 <br>
 
-## 趣味
+## 活動履歴（趣味）
 ### 音楽
 |年月|概要|
 |:--|:--|
@@ -125,6 +125,33 @@
 ### その他
 - Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）
 - ペット飼育（熱帯魚、ゴールデンハムスター、フェレット）
+
+<br>
+
+## 適性検査
+### CliftonStrengths（クリフトンストレングス34）[[link]](https://www.gallup.com/cliftonstrengths/ja/253661/CliftonStrengths.aspx)
+- 2021年4月27日実施
+- 領域：「影響力」
+- 上位資質
+  1. 学習欲
+  2. 自我
+  3. 最上志向
+  4. 目標志向
+  5. 競争性
+  6. 着想
+  7. 親密性
+  8. 指令性
+  9. 未来志向
+  10. 適応性
+### 16Personalities [[link]](https://www.16personalities.com/ja)
+- 2024年11月3日実施
+- 性格タイプ：建築家（INTJ-A）
+- 性格特性
+  - 内向型 60%
+  - 直感型 68%
+  - 思考型 66%
+  - 計画型 78%
+  - 自己主張型 53%
 
 <!--
 **Michihiro-Tsukano/Michihiro-Tsukano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
