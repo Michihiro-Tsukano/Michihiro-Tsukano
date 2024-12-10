@@ -124,7 +124,7 @@
 |2004.04|空手（東真会）、初段（～2010.03） [[link]](https://toshinkai.jp/)|
 
 ### その他
-- Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）
+- Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）[[link]](https://qiita.com/michimichix521)
 - ペット飼育（熱帯魚、ゴールデンハムスター、フェレット）
 
 <br>
