@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" width="500">
+
+<img src="https://github.com/user-attachments/assets/f408a527-a3f2-44b1-a905-033bca4fdf18" alt="team-lab" height="300">
+<img src="https://github.com/user-attachments/assets/102b8590-fdc0-4696-b7b2-8b0431204d67" alt="色紙" height="300">
+<img src="https://github.com/user-attachments/assets/a4a4e018-65fc-4c25-926d-c531fede2124" alt="メリー" height="300">
+<img src="https://github.com/user-attachments/assets/0d62caf4-986e-4acb-81ba-a33a292e7aa1" alt="AIイラスト" height="300">
+<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" alt="Qiitan" height="300">
+<img src="https://github.com/user-attachments/assets/a5c66e92-9ae4-4cde-86ce-e0de867eb777" alt="りこ" height="300">
 
 ## 基本情報
+
 - 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ / 神奈川県出身
 - 普通自動車第一種運転免許（AT限定）
+
 - メーカーのエンジニア5年目（Web・クラウド・AI）
 - 学士（理工学：情報学系）→ 大学院修士課程（情報学専攻）2025/03 修了予定
 
@@ -116,6 +124,8 @@
 |2013.04|クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812（～現在）|
 |2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
 |2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
+
+<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" height="200">
 
 ### 武道
 |年月|概要|
