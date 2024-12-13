@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-
-<img src="https://github.com/user-attachments/assets/f408a527-a3f2-44b1-a905-033bca4fdf18" alt="team-lab" height="200">
-<img src="https://github.com/user-attachments/assets/102b8590-fdc0-4696-b7b2-8b0431204d67" alt="色紙" height="200">
-<img src="https://github.com/user-attachments/assets/a4a4e018-65fc-4c25-926d-c531fede2124" alt="メリー" height="200">
-<img src="https://github.com/user-attachments/assets/0d62caf4-986e-4acb-81ba-a33a292e7aa1" alt="AIイラスト" height="200">
-<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" alt="Qiitan" height="200">
-<img src="https://github.com/user-attachments/assets/a5c66e92-9ae4-4cde-86ce-e0de867eb777" alt="りこ" height="200">
-
 ## 基本情報
 
 - 束野 通洋（ツカノミチヒロ）/ 1997年5月21日生まれ / 神奈川県出身
@@ -19,6 +11,13 @@
 [Roland DG Corporation](https://www.rolanddg.com/) → [社員インタビュー](https://recruit.rolanddg.com/ja/person/interview/new-graduate-01/)
 
 連絡先：michimichix521@gmail.com
+
+<img src="https://github.com/user-attachments/assets/f408a527-a3f2-44b1-a905-033bca4fdf18" alt="team-lab" height="200">
+<img src="https://github.com/user-attachments/assets/102b8590-fdc0-4696-b7b2-8b0431204d67" alt="色紙" height="200">
+<img src="https://github.com/user-attachments/assets/a4a4e018-65fc-4c25-926d-c531fede2124" alt="メリー" height="200">
+<img src="https://github.com/user-attachments/assets/0d62caf4-986e-4acb-81ba-a33a292e7aa1" alt="AIイラスト" height="200">
+<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" alt="Qiitan" height="200">
+<img src="https://github.com/user-attachments/assets/a5c66e92-9ae4-4cde-86ce-e0de867eb777" alt="りこ" height="200">
 
 <br>
 
