@@ -28,7 +28,41 @@
 
 <br>
 
-## 開発事例１（転倒検出システム）
+## スキルセットと開発経験
+### スキルセット
+|項目|内容|
+|:--|:--|
+|ソフトウェア設計|オブジェクト指向プログラミング / ドメイン駆動設計 / テスト駆動開発|
+|フロントエンド|HTML / CSS / JavaScript / jQuery / Bootstrap|
+|バックエンド|C# / Python / .NET / ASP.NET Core MVC / Blazor|
+|インフラ（Azure）|Virtual Machines / Bastion / Functions / App Service / Logic Apps / Application Insights / Blob Storage / Table Storage / SQL Server / SQL Database / Azure Active Directory / Azure AD B2C / Cognitive Services / IoT Hub / Twilio SendGrid|
+|ツール・ライブラリ|Visual Studio / Visual Studio Code / Azure Portal / Azure Devops / SourceTree / GitHub / Microsoft Office / Power BI / Power Automate/ draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Copilot / GitHub Copilot / scilit-learn / TensorFlow / Keras / SignalR|
+
+### 開発経験
+- 計算記号当てゲームの開発（Scratch）
+- 秘密計算を用いた進路評価モデルの開発（Python）
+- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
+- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
+- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
+- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
+- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
+- 休暇連絡システムの開発（Power Automate）
+- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
+- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
+- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
+- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
+- 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
+- ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
+- 機械学習（K-means++）を用いたスピンドル異常検知手法・API の開発（scikit-learn, Functions）
+- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
+- 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
+- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
+- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
+- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
+
+<br>
+
+## 開発事例紹介１（転倒検出システム）
 転倒検出システムは、3軸加速度センサ・3軸ジャイロセンサを搭載したデバイス（スマートフォン）からセンサデータを収集し、正常か転倒かの行動判定を行うWebサービスである。これは、要素開発した独自の転倒検出AIを備えている。[[link]](https://michiservice.azurewebsites.net/)
 <br>
 <br>
@@ -54,7 +88,7 @@ OC-SVM（選択不可）
 
 <br>
 
-## 開発事例２（暗号通貨シミュレータ）
+## 開発事例紹介２（暗号通貨シミュレータ）
 ブロックチェーン技術を考慮した電子的な通貨の取引の流れをシミュレートしたWebサービスである。実験的なもののため、コンセンサスアルゴリズムには、PoW等ではなく、単純に乱数によって決定された者がブロックの生成権を得る仕組みになっている。[[link]](https://michimichix521.github.io/CryptoCurrencySimulator/)
 
 ### UI
@@ -62,40 +96,6 @@ OC-SVM（選択不可）
 
 ### 暗号通貨シミュレータ
 - 束野通洋：暗号通貨シミュレータ，一般社団法人神奈川県情報サービス産業協会主催の学生ITコンテスト2019．**ITプロダクツ部門優秀賞受賞**
-
-<br>
-
-## スキルセットとその他開発経験
-### スキルセット
-|項目|内容|
-|:--|:--|
-|ソフトウェア設計|オブジェクト指向プログラミング / ドメイン駆動設計 / テスト駆動開発|
-|フロントエンド|HTML / CSS / JavaScript / jQuery / Bootstrap|
-|バックエンド|C# / Python / .NET / ASP.NET Core MVC / Blazor|
-|インフラ（Azure）|Virtual Machines / Bastion / Functions / App Service / Logic Apps / Application Insights / Blob Storage / Table Storage / SQL Server / SQL Database / Azure Active Directory / Azure AD B2C / Cognitive Services / IoT Hub / Twilio SendGrid|
-|ツール・ライブラリ|Visual Studio / Visual Studio Code / Azure Portal / Azure Devops / SourceTree / GitHub / Microsoft Office / Power BI / Power Automate/ draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Copilot / GitHub Copilot / scilit-learn / TensorFlow / Keras / SignalR|
-
-### その他開発経験
-- 計算記号当てゲームの開発（Scratch）
-- 秘密計算を用いた進路評価モデルの開発（Python）
-- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
-- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
-- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
-- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
-- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
-- 休暇連絡システムの開発（Power Automate）
-- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
-- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
-- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
-- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
-- 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
-- ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
-- 機械学習（K-means++）を用いたスピンドル異常検知手法・API の開発（scikit-learn, Functions）
-- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
-- 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
-- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
-- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
-- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
 
 <br>
 
