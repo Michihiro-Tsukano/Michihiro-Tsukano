@@ -103,23 +103,25 @@
 <br>
 
 ## 活動履歴（趣味）
-### 音楽
-|年月|概要|
-|:--|:--|
-|2023.01|カラオケDAM精密採点における最高得点：**95.808** 点を取得（DEEP："君じゃない誰かなんて～Tejina～"）|
-|2017.08|NHKのど自慢大会の予選に出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)|
-|2017.04|SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（～2018.03）[[link]](https://www.seal-musicschool.jp/)|
-|2013.04|音楽アプリやTwitter、YouTube 等で歌ってみた活動（～2018.06）|
-
 ### ゲーム
 |年月|概要|
 |:--|:--|
-|2024.02|クラッシュオブクランのeスポーツ：Clash Champs - TOWN HALL 15 TROPHY RACE に出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)|
+|2024.02|クラッシュオブクランのeスポーツClash Champsで「TOWN HALL 15 TROPHY RACE」に出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)|
 |2013.04|クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812（～現在）|
 |2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
 |2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
 
 <img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" width="500px">
+
+### 音楽
+|年月|概要|
+|:--|:--|
+|2023.01|カラオケDAM精密採点Aiで **95.808** 点を取得|
+|2017.08|NHKのど自慢大会の予選に出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)|
+|2017.04|SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（～2018.03）[[link]](https://www.seal-musicschool.jp/)|
+|2013.04|音楽アプリやTwitter、YouTube 等で歌ってみた活動（～2018.06）|
+
+<img src="https://github.com/user-attachments/assets/70200e3a-556d-4b40-bc9f-1a19adff91e6" alt="カラオケ得点" width="500px">
 
 ### 武道
 |年月|概要|
@@ -146,7 +148,10 @@
 <br>
 
 ## 研究開発の紹介（転倒検出システム）
-転倒検出システムは，3軸加速度センサ・3軸ジャイロセンサを搭載したデバイス（スマートフォン）からセンサデータを収集し，正常か転倒かの行動判定を行うWebサービスである．
+転倒検出システムは、3軸加速度センサ・3軸ジャイロセンサを搭載したデバイス（スマートフォン）からセンサデータを収集し、正常か転倒かの行動判定を行うWebサービスである。これは、独自に要素開発した転倒検出AIを備えている。[[link]](https://michiservice.azurewebsites.net/)
+<br>
+<br>
+※サービスを利用するには、センサを許可し、3軸加速度センサと3軸ジャイロセンサのデータを収集可能にする必要があります。
 
 ### UI
 <img src="https://github.com/user-attachments/assets/49d2533a-6ae7-4a73-b655-d73b91df68af" alt="転倒検出システムUI">
