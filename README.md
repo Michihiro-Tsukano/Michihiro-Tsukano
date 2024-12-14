@@ -17,14 +17,14 @@
 <br>
 
 ## 適性検査
+### 16Personalities [[link]](https://www.16personalities.com/ja)
+- 2024年11月3日実施
+- 性格タイプ：建築家（INTJ-A）
+
 ### CliftonStrengths（クリフトンストレングス34）[[link]](https://www.gallup.com/cliftonstrengths/ja/253661/CliftonStrengths.aspx)
 - 2021年4月27日実施
 - 領域：「影響力」
 - 上位資質：1. 学習欲、2. 自我、3. 最上志向、4. 目標志向、5. 競争性、6. 着想、7. 親密性、8. 指令性、9. 未来志向、10. 適応性
-
-### 16Personalities [[link]](https://www.16personalities.com/ja)
-- 2024年11月3日実施
-- 性格タイプ：建築家（INTJ-A）
 
 <br>
 
@@ -39,26 +39,26 @@
 |ツール・ライブラリ|Visual Studio / Visual Studio Code / Azure Portal / Azure Devops / SourceTree / GitHub / Microsoft Office / Power BI / Power Automate/ draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Copilot / GitHub Copilot / scilit-learn / TensorFlow / Keras / SignalR|
 
 ### 開発経験
-- 計算記号当てゲームの開発（Scratch）
-- 秘密計算を用いた進路評価モデルの開発（Python）
-- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
-- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
-- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
-- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
-- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
-- 休暇連絡システムの開発（Power Automate）
-- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
-- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
-- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
-- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
+- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
+- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
+- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
+- 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
+- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
+- 機械学習（K-means++）を用いたスピンドル異常検知手法・API の開発（scikit-learn, Functions）
 - 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
 - ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
-- 機械学習（K-means++）を用いたスピンドル異常検知手法・API の開発（scikit-learn, Functions）
-- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
-- 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
-- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
-- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
-- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
+- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
+- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
+- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
+- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
+- 休暇連絡システムの開発（Power Automate）
+- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
+- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
+- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
+- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
+- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
+- 秘密計算を用いた進路評価モデルの開発（Python）
+- 計算記号当てゲームの開発（Scratch）
 
 <br>
 
