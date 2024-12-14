@@ -65,38 +65,17 @@ OC-SVM（選択不可）
 
 <br>
 
-## スキルセット
-ソフトウェア設計
-- オブジェクト指向プログラミング
-- ドメイン駆動設計
-- テスト駆動開発
+## スキルセットとその他開発経験
+### スキルセット
+|項目|内容|
+|:--|:--|
+|ソフトウェア設計|オブジェクト指向プログラミング / ドメイン駆動設計 / テスト駆動開発|
+|フロントエンド|HTML / CSS / JavaScript / jQuery / Bootstrap|
+|バックエンド|C# / Python / .NET / ASP.NET Core MVC / Blazor|
+|インフラ（Azure）|Virtual Machines / Bastion / Functions / App Service / Logic Apps / Application Insights / Blob Storage / Table Storage / SQL Server / SQL Database / Azure Active Directory / Azure AD B2C / Cognitive Services / IoT Hub / Twilio SendGrid|
+|ツール・ライブラリ|Visual Studio / Visual Studio Code / Azure Portal / Azure Devops / SourceTree / GitHub / Microsoft Office / Power BI / Power Automate/ draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Copilot / GitHub Copilot / scilit-learn / TensorFlow / Keras / SignalR|
 
-フロントエンド
-- HTML / CSS / JavaScript / jQuery / Bootstrap
-
-バックエンド
-- プログラミング言語
-  - C# / Python
-- フレームワーク
-  - .NET / ASP.NET Core MVC / Blazor
-- クラウドサービス: Microsoft Azure
-  - Virtual Machines / Bastion
-  - Functions / App Service / Logic Apps / Application Insights
-  - Blob Storage / Table Storage / SQL Server / SQL Database
-  - Azure Active Directory / Azure AD B2C
-  - Cognitive Services / IoT Hub / Twilio SendGrid
-
-ツール・ライブラリ
-- Visual Studio / Visual Studio Code
-- Azure Portal / Azure Devops / SourceTree / GitHub
-- Microsoft Office / Power BI / Power Automate
-- draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Coplilot
-- scilit-learn / TensorFlow / Keras
-- SignalR
-
-<br>
-
-## 開発経験
+### その他開発経験
 - 計算記号当てゲームの開発（Scratch）
 - 秘密計算を用いた進路評価モデルの開発（Python）
 - 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
