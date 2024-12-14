@@ -119,7 +119,7 @@
 |2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
 |2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
 
-<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" height="200">
+<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" max-width="500px">
 
 ### 武道
 |年月|概要|
