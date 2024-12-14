@@ -99,6 +99,13 @@ OC-SVM（選択不可）
 
 <br>
 
+## 開発事例紹介３（DGSHAPE CLOUD）
+DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタル加工機に関するクラウドサービスである。私は、DGSHAPE CLOUDの立ち上げから開発メンバーとして参画している。[[紹介サイト]](https://dgshape.com/cloud/)
+
+<img src="https://github.com/user-attachments/assets/840f834f-1e2b-4ca0-ba76-1e93716eccef" alt="DGSHAPECLOUD">
+
+<br>
+
 ## 活動履歴（コンピュータサイエンス関係）
 |年月|概要|
 |:--|:--|
