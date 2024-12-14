@@ -89,7 +89,7 @@ OC-SVM（選択不可）
 <br>
 
 ## 開発事例紹介２（暗号通貨シミュレータ）
-ブロックチェーン技術を考慮した電子的な通貨の取引の流れをシミュレートしたWebサービスである。実験的なもののため、コンセンサスアルゴリズムには、PoW等ではなく、単純に乱数によって決定された者がブロックの生成権を得る仕組みになっている。[[link]](https://michimichix521.github.io/CryptoCurrencySimulator/)
+暗号通貨シミュレータは、ブロックチェーン技術を考慮した電子的な通貨の取引の流れをシミュレートしたWebサービスである。実験的なもののため、コンセンサスアルゴリズムには、PoW等ではなく、単純に乱数によって決定された者がブロックの生成権を得る仕組みになっている。[[link]](https://michimichix521.github.io/CryptoCurrencySimulator/)
 
 ### UI
 <img src="https://github.com/user-attachments/assets/46c8c74d-5c30-4baf-8fd9-b5404b13b89d" alt="暗号通貨シミュレータ">
