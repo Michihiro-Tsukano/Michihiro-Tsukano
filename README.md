@@ -62,7 +62,14 @@
 
 <br>
 
-## 開発事例紹介１（転倒検出システム）
+## 開発事例紹介１（DGSHAPE CLOUD）
+DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタル加工機に関するクラウドサービスである。私は、DGSHAPE CLOUDの立ち上げから開発メンバーとして参画している。[[紹介サイト]](https://dgshape.com/cloud/)
+
+<img src="https://github.com/user-attachments/assets/840f834f-1e2b-4ca0-ba76-1e93716eccef" alt="DGSHAPECLOUD">
+
+<br>
+
+## 開発事例紹介２（転倒検出システム）
 転倒検出システムは、3軸加速度センサ・3軸ジャイロセンサを搭載したデバイス（スマートフォン）からセンサデータを収集し、正常か転倒かの行動判定を行うWebサービスである。これは、要素開発した独自の転倒検出AIを備えている。[[link]](https://michiservice.azurewebsites.net/)
 <br>
 <br>
@@ -85,13 +92,6 @@ AE+OC-SVM, AE (Threshold)
 OC-SVM（選択不可）
 - 束野通洋，峰野博史：OC-SVMを用いた転倒検知手法の検討，第21回情報学ワークショップ，2B-9 (2023).
 - 【概要】近年，高齢化が進み，高齢者の数は増加傾向にある．高齢者の転倒は死に至る重大な要因であり，早急に検知し，対応することが求められる．転倒検知に関する研究では，スマートフォンなどに搭載されている加速度センサのデータを用いて，行動や転倒の推定がさかんに行われている．また，各種の行動や転倒時のデータを事前に用意した教師あり学習による推定が多い．精度向上のためには大量のデータが必要になるが，転倒時のデータを大量に集めるのは困難である．本研究では，比較的収集が容易な正常時の行動のみを学習し，それ以外の行動を転倒と認識するようなOC-SVMを用いた転倒検知の手法を提案する．
-
-<br>
-
-## 開発事例紹介２（DGSHAPE CLOUD）
-DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタル加工機に関するクラウドサービスである。私は、DGSHAPE CLOUDの立ち上げから開発メンバーとして参画している。[[紹介サイト]](https://dgshape.com/cloud/)
-
-<img src="https://github.com/user-attachments/assets/840f834f-1e2b-4ca0-ba76-1e93716eccef" alt="DGSHAPECLOUD">
 
 <br>
 
