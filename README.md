@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" alt="Qiitan">
+<img src="https://github.com/user-attachments/assets/8eadf5d8-3284-4416-9955-0b22dea69b7f" alt="Qiitan" width="500px">
 
 ## 基本情報
 
@@ -119,7 +119,7 @@
 |2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
 |2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
 
-<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" max-width="500px">
+<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" width="500px">
 
 ### 武道
 |年月|概要|
@@ -152,7 +152,9 @@
 <img src="https://github.com/user-attachments/assets/49d2533a-6ae7-4a73-b655-d73b91df68af" alt="転倒検出システムUI">
 
 ### システム構成図
-<img src="https://github.com/user-attachments/assets/7bafb524-2924-4efb-ba42-ca3ae73678a7" alt="転倒検出システム構成図">
+<img src="https://github.com/user-attachments/assets/a86631a8-e321-4bdc-9cae-fbfad5e1f243" alt="転倒検出システム構成図">
+
+
 
 ### 転倒検出AI
 CAE+OC-SVM
