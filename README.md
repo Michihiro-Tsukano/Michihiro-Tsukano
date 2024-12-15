@@ -79,7 +79,7 @@ DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタ
 <img src="https://github.com/user-attachments/assets/49d2533a-6ae7-4a73-b655-d73b91df68af" alt="転倒検出システムUI">
 
 ### システム構成図
-<img src="https://github.com/user-attachments/assets/a86631a8-e321-4bdc-9cae-fbfad5e1f243" alt="転倒検出システム構成図">
+<img src="https://github.com/user-attachments/assets/a85e6006-a40e-42af-8d2e-c23eded7d929" alt="転倒検出システム構成図">
 
 ### 転倒検出AI
 CAE+OC-SVM
