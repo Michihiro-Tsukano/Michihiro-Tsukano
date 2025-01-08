@@ -53,13 +53,15 @@ DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタ
 ※サービスを利用するには、センサを許可し、3軸加速度センサと3軸ジャイロセンサのデータを収集可能にする必要があります。
 
 ### UI
-<img src="https://github.com/user-attachments/assets/49d2533a-6ae7-4a73-b655-d73b91df68af" alt="転倒検出システムUI">
+<img src="https://github.com/user-attachments/assets/9b65a2ed-d784-4921-8ea9-710fb15be880" alt="転倒検出システムUI">
 
 ### システム構成図
-<img src="https://github.com/user-attachments/assets/675da79e-33ad-40ac-be8e-be9ca58fc3db" alt="転倒検出システム構成図" >
+<img src="https://github.com/user-attachments/assets/6c33ce3f-d3a7-4854-9a02-160b84014d34" alt="独自の転倒検出システムの構成図">
+
 
 ### 転倒検出AI
 CAE+OC-SVM
+
 - 発表予定
 - 束野通洋，峰野博史：ウェアラブルセンサのスペクトル可視化による転倒検出AIの開発と評価，第42回コンシューマ・デバイス＆システム（CDS）研究会
 
