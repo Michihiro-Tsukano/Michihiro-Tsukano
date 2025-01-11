@@ -28,17 +28,6 @@
 
 <br>
 
-## スキルセット
-|項目|内容|
-|:--|:--|
-|ソフトウェア設計|オブジェクト指向プログラミング / ドメイン駆動設計 / テスト駆動開発|
-|フロントエンド|HTML / CSS / JavaScript / jQuery / Bootstrap|
-|バックエンド|C# / Python / .NET / ASP.NET Core MVC / Blazor|
-|インフラ（Azure）|Virtual Machines / Bastion / Functions / App Service / Logic Apps / Application Insights / Blob Storage / Table Storage / SQL Server / SQL Database / Azure Active Directory / Azure AD B2C / Cognitive Services / IoT Hub / Twilio SendGrid|
-|ツール・ライブラリ|Visual Studio / Visual Studio Code / Azure Portal / Azure Devops / SourceTree / GitHub / Microsoft Office / Power BI / Power Automate/ draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Copilot / GitHub Copilot / scilit-learn / TensorFlow / Keras / SignalR|
-
-<br>
-
 ## 開発事例紹介１（DGSHAPE CLOUD）
 DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタル加工機に関するクラウドサービスである。私は、DGSHAPE CLOUDの立ち上げから開発メンバーとして参画している。[[紹介ページ]](https://dgshape.com/cloud/)
 
@@ -52,14 +41,18 @@ DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタ
 <br>
 ※サービスを利用するには、センサを許可し、3軸加速度センサと3軸ジャイロセンサのデータを収集可能にする必要があります。
 
+<br>
+
+主な使用技術
+- フロントエンド：HTML / CSS / JavaScript / jQuery / Bootstrap
+- バックエンド：C# (.NET) / ASP.NET Core MVC / Python / TensorFlow / scikit-learn
+- インフラ：Azure App Service / Azure SQL Database / Azure Functions / Application Insights
+
 ### UI
 <img src="https://github.com/user-attachments/assets/cf879ca3-faf8-4af5-a534-6dd10de64807" alt="転倒検出システムUI">
 
-
 ### システム構成図
 <img src="https://github.com/user-attachments/assets/2730e9be-b73c-4755-ad3a-acd8b576ea86" alt="独自の転倒検出システムの構成図">
-
-
 
 ### 転倒検出AI
 CAE+OC-SVM
@@ -74,30 +67,6 @@ AE+OC-SVM, AE (Threshold)
 OC-SVM
 - 束野通洋，峰野博史：OC-SVMを用いた転倒検知手法の検討，第21回情報学ワークショップ，2B-9 (2023).
 - 【概要】近年，高齢化が進み，高齢者の数は増加傾向にある．高齢者の転倒は死に至る重大な要因であり，早急に検知し，対応することが求められる．転倒検知に関する研究では，スマートフォンなどに搭載されている加速度センサのデータを用いて，行動や転倒の推定がさかんに行われている．また，各種の行動や転倒時のデータを事前に用意した教師あり学習による推定が多い．精度向上のためには大量のデータが必要になるが，転倒時のデータを大量に集めるのは困難である．本研究では，比較的収集が容易な正常時の行動のみを学習し，それ以外の行動を転倒と認識するようなOC-SVMを用いた転倒検知の手法を提案する．
-
-<br>
-
-## その他の開発経験
-- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
-- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
-- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
-- 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
-- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
-- 機械学習（K-means++）を用いたスピンドル異常検知手法・API の開発（scikit-learn, Functions）
-- 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
-- ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
-- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
-- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
-- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
-- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
-- 休暇連絡システムの開発（Power Automate）
-- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
-- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
-- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
-- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
-- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
-- 秘密計算を用いた進路評価モデルの開発（Python）
-- 計算記号当てゲームの開発（Scratch）
 
 <br>
 
@@ -162,6 +131,42 @@ OC-SVM
 ### その他
 - Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）[[link]](https://qiita.com/michimichix521)
 - ペット飼育（熱帯魚、ゴールデンハムスター、フェレット）
+
+<br>
+
+## 付録
+### スキルセット
+|項目|内容|
+|:--|:--|
+|ソフトウェア設計|オブジェクト指向プログラミング / ドメイン駆動設計 / テスト駆動開発|
+|フロントエンド|HTML / CSS / JavaScript / jQuery / Bootstrap|
+|バックエンド|C# / Python / .NET / ASP.NET Core MVC / Blazor|
+|インフラ（Azure）|Virtual Machines / Bastion / Functions / App Service / Logic Apps / Application Insights / Blob Storage / Table Storage / SQL Server / SQL Database / Azure Active Directory / Azure AD B2C / Cognitive Services / IoT Hub / Twilio SendGrid|
+|ツール・ライブラリ|Visual Studio / Visual Studio Code / Azure Portal / Azure Devops / SourceTree / GitHub / Microsoft Office / Power BI / Power Automate/ draw.io / Postman / DeepL / Miro / Qiita / CodePen / ChatGPT / Copilot / GitHub Copilot / scikit-learn / TensorFlow / Keras / SignalR|
+
+<br>
+
+## その他の開発経験
+- 転倒検出システムの開発（TensorFlow, Keras, scikit-learn, Functions, ASP.NET Core MVC）
+- オートエンコーダとOC-SVMを用いた転倒検出手法の開発（TensorFlow, Keras, scikit-learn）
+- SignalR を用いたグループ指定による双方向通信の環境構築（SignalR, ASP.NET Core MVC）
+- 深層学習（オートエンコーダ）を用いたスピンドル異常検知手法の検討（TensorFlow, Keras）
+- OC-SVM を用いた転倒検知手法の開発（scilit-learn）
+- 機械学習（K-means++）を用いたスピンドル異常検知手法・API の開発（scikit-learn, Functions）
+- 仮想的な切削加工機稼働システムの構築（Virtual Machines, Bastion）
+- ローカライズ（多言語化）システムの構築（ASP.NET Core MVC）
+- Azure AD B2C を用いたサインアップ・サインイン等の認証基盤の構築（Azure AD B2C, ASP.NET Core MVC）
+- Microsoft Azure のリソースのコスト分析と予測（Azure Portal）
+- 切削加工機の稼働レポートをメールで配信するシステムの開発（Functions, Twilio SendGrid）
+- 在籍管理システムの開発（ASP.NET Core MVC, Table Storage）
+- 休暇連絡システムの開発（Power Automate）
+- Web サービスのアクセス解析基盤の構築と見える化（Application Insights, Power BI）
+- 切削加工機の稼働状況の見える化（IoT Hub, ASP.NET Core MVC）
+- 音声認識とニューラル音声を用いた翻訳システムの開発（Cognitive Services）
+- 興味のあるトレンド技術情報共有サービスの開発（Logic Apps, Functions）
+- 暗号通貨シミュレータの開発（HTML, CSS, JavaScript, Blockchain）
+- 秘密計算を用いた進路評価モデルの開発（Python）
+- 計算記号当てゲームの開発（Scratch）
 
 <br>
 
