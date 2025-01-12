@@ -44,8 +44,8 @@ DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタ
 <br>
 
 主な使用技術
-- クライアントサイド：HTML / CSS / JavaScript / jQuery / Bootstrap
-- サーバーサイド：C# (.NET) / ASP.NET Core MVC / Python / TensorFlow / scikit-learn
+- フロントエンド：HTML / CSS / JavaScript / jQuery / Bootstrap
+- バックエンド：C# (.NET) / ASP.NET Core MVC / Python / TensorFlow / scikit-learn
 - インフラ：Azure App Service / Azure SQL Database / Azure Functions / Application Insights
 
 ### UI
