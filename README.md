@@ -49,7 +49,9 @@ DGSHAPE CLOUDは、DGSHAPE株式会社で開発されている歯科用デンタ
 - インフラ：Azure App Service / Azure SQL Database / Azure Functions / Application Insights
 
 ### UI
-<img src="https://github.com/user-attachments/assets/cf879ca3-faf8-4af5-a534-6dd10de64807" alt="転倒検出システムUI">
+<img src="https://github.com/user-attachments/assets/95120292-c887-49f7-8074-849aa7ae9109" alt="転倒検出システムUI">
+
+
 
 ### システム構成図
 <img src="https://github.com/user-attachments/assets/2730e9be-b73c-4755-ad3a-acd8b576ea86" alt="独自の転倒検出システムの構成図">
