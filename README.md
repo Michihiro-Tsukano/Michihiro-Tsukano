@@ -78,9 +78,11 @@ OC-SVM
 |2024.11|特許「加工データ確認装置および切削加工システム」特願2023-074745、特開2024-159022 [[link]](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202403003271498138)|
 |2024.09|一般社団法人情報処理学会、電子情報通信学会（ISS・HCG）主催の第23回情報科学技術フォーラム（FIT2024）で「オートエンコーダとOC-SVMを用いた転倒検出手法の開発」に関して口頭発表し、**FIT奨励賞受賞** [[論文]](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000016740&expandable=2&ConfCd=F&session_num=7h&lecture_number=F-051&year=2024&conf_type=F) [[大学]](https://www.inf.shizuoka.ac.jp/news/3117/) [[学会]](https://www.ipsj.or.jp/award/fit-syorei.html)|
 |2023.12|静岡大学情報学部主催の第21回情報学ワークショップ（WiNF2023）で「OC-SVMを用いた転倒検知手法の検討」に関してポスター発表 [[link]](https://sites.google.com/view/winf2023/home)|
+|2023.11|組込みソフトウェア技術コンソーシアム（HEPT）主催の「IoTシステムアーキテクト養成プログラム」に参加し、実施されたハッカソンで「レシピ提案システム」に関して発表 [[link]](https://hept.inf.shizuoka.ac.jp/programs/iot-architect/)|
 |2023.04|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）に配属 [[link]](https://wwp.shizuoka.ac.jp/minelab/)|
 |2023.04|静岡大学大学院総合科学技術研究科情報学専攻（社会人特別選抜）に入学【修士課程】 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
 |2022.06|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）の研究補助（～2023/03）|
+|2021.12|組込みソフトウェア技術コンソーシアム（HEPT）主催の「オブジェクト指向設計講座」に参加 [[link]](https://hept.inf.shizuoka.ac.jp/programs/object/)|
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
 |2021.09|Qiita株式会社主催のQiita 10周年記念イベント - 10年後のために今勉強しておきたい技術で「クラウドしか勝たん！」に関して記事投稿し、**Qiita10周年記念プレゼント対象に当選**（Qiitanぬいぐるみと10周年記念ステッカーをGET!!） [[イベント内容]](https://qiita.com/official-events/12fc7bacec894d33a981) [[投稿記事]](https://qiita.com/michimichix521/items/c0cb92a34002b977882d)|
 |2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
