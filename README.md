@@ -79,7 +79,7 @@ OC-SVM
 |2024.09|一般社団法人情報処理学会、電子情報通信学会（ISS・HCG）主催の第23回情報科学技術フォーラム（FIT2024）で「オートエンコーダとOC-SVMを用いた転倒検出手法の開発」に関して口頭発表し、**FIT奨励賞受賞** [[論文]](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000016740&expandable=2&ConfCd=F&session_num=7h&lecture_number=F-051&year=2024&conf_type=F) [[大学]](https://www.inf.shizuoka.ac.jp/news/3117/) [[学会]](https://www.ipsj.or.jp/award/fit-syorei.html)|
 |2023.12|静岡大学情報学部主催の第21回情報学ワークショップ（WiNF2023）で「OC-SVMを用いた転倒検知手法の検討」に関してポスター発表 [[link]](https://sites.google.com/view/winf2023/home)|
 |2023.04|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）に配属 [[link]](https://wwp.shizuoka.ac.jp/minelab/)|
-|2023.04|静岡大学大学院総合科学技術研究科情報学専攻（社会人再教育のための特別プログラム）に入学【修士課程】 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
+|2023.04|静岡大学大学院総合科学技術研究科情報学専攻（社会人特別選抜）に入学【修士課程】 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
 |2022.06|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）の研究補助（～2023/03）|
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
 |2021.09|Qiita株式会社主催のQiita 10周年記念イベント - 10年後のために今勉強しておきたい技術で「クラウドしか勝たん！」に関して記事投稿し、**Qiita10周年記念プレゼント対象に当選**（Qiitanぬいぐるみと10周年記念ステッカーをGET!!） [[イベント内容]](https://qiita.com/official-events/12fc7bacec894d33a981) [[投稿記事]](https://qiita.com/michimichix521/items/c0cb92a34002b977882d)|
@@ -87,7 +87,7 @@ OC-SVM
 |2020.05|DGSHAPE株式会社に出向し、アプリ開発部門でDGSHAPE CLOUD開発業務に従事（～現在）[[link]](https://dgshape.global/)|
 |2020.04|ローランド ディー.ジー.株式会社に入社 [[link]](https://www.rolanddg.com/)|
 |2020.03|関東学院大学理工/建築・環境学会、理工学部/建築・環境学部教養学会  **学修優秀賞**（**活動優秀賞**）**受賞** [[link]](https://rkgakkai.kanto-gakuin.ac.jp/files/prize_act/act2019.pdf)|
-|2020.03|関東学院大学理工学部理工学科情報ネット・メディアコースを卒業（理工学学士）<br>「卒業論文：試行錯誤の変動係数に着目した能動性の定量的な評価」|
+|2020.03|関東学院大学理工学部理工学科情報ネット・メディアコースを卒業し、**学士**（**理工学**）を取得 <br>「卒業論文：試行錯誤の変動係数に着目した能動性の定量的な評価」|
 |2020.01|日刊工業新聞社、モノづくり日本会議主催の理工系学生科学技術論文コンクールで「インターネット上での情報共有の場」に関して発表 [[link]](https://www.rikokei.jp/)|
 |2019.11|一般社団法人神奈川県情報サービス産業協会主催の学生ITコンテスト2019で「暗号通貨シミュレータ」に関して発表し、**ITプロダクツ部門優秀賞受賞** [[link]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)|
 |2019.11|KPMG Ignition Tokyo主催の第1回KPMGジャパン秘密計算ハッカソンで「秘密計算を用いた進路評価モデルの開発」に関して発表 [[KPMG]](https://kpmg.com/jp/ja/home/events/2020/08/hackathon-2019nov.html) [[イベントレポート]](https://www.businessinsider.jp/post-202846)|
@@ -99,7 +99,7 @@ OC-SVM
 |2018.10|関東学院大学理工学部理工学科情報ネット・メディアコース ネットワークセキュリティ研究室（塚田研究室）に配属 [[link]](http://home.kanto-gakuin.ac.jp/~tsukada/tsukada-lab/index.html)|
 |2018.08|ローランド ディー.ジー.株式会社のDGSHAPEインターンシップに参加し、アプリ開発業務に従事（1か月間） [[link]](https://www.rolanddg.com/ja/recruit/internship)|
 |2018.04|株式会社LITALICOで、プログラミング講師業務に従事（～2020.03） [[link]](https://wonder.litalico.jp/)|
-|2016.04|関東学院大学理工学部理工学科情報ネット・メディアコースに入学【学士課程】 [[link]](https://netmedia.kanto-gakuin.ac.jp/)|
+|2016.04|関東学院大学理工学部理工学科情報ネット・メディアコース（センター利用選抜）に入学【学士課程】 [[link]](https://netmedia.kanto-gakuin.ac.jp/)|
 
 <br>
 
