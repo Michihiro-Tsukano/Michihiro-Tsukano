@@ -64,7 +64,7 @@ AE+OC-SVM, AE (Threshold)
 - [束野通洋，峰野博史：オートエンコーダとOC-SVMを用いた転倒検出手法の開発，情報科学技術フォーラム講演論文集（FIT），Vol. 23, No. 2, pp. 563-568 (2024).](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000016740&expandable=2&ConfCd=F&session_num=7h&lecture_number=F-051&year=2024&conf_type=F)
 
 OC-SVM
-- [束野通洋，峰野博史：OC-SVMを用いた転倒検知手法の検討，第21回情報学ワークショップ（WiNF2023），2B-9 (2023).](https://sites.google.com/view/winf2023/home)
+- [束野通洋，峰野博史：OC-SVMを用いた転倒検知手法の検討，第21回情報学ワークショップ（WiNF2023），2B-9 (2023).](https://sites.google.com/view/winf2023/program?authuser=0#h.fnfufpacyphx)
 
 <br>
 
