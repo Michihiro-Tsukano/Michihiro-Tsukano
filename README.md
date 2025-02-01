@@ -72,12 +72,14 @@ OC-SVM
 |年月|概要|
 |:--|:--|
 |2025.01|一般社団法人情報処理学会 コンシューマ・デバイス＆システム（CDS）研究会主催の第42回研究発表会（CDS42）で「ウェアラブルセンサのスペクトル可視化による転倒検出AIの開発と評価」に関して口頭発表 [[論文]](http://id.nii.ac.jp/1001/00241857/)|
-|2024.11|特許「加工データ確認装置および切削加工システム」特願2023-074745、特開2024-159022 [[link]](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202403003271498138)|
+|2024.11|特許「加工データ確認装置および切削加工システム」特願2023-074745、特開2024-159022 [[概要]](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202403003271498138) [[詳細]](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-159022/11/ja)|
 |2024.09|一般社団法人情報処理学会、電子情報通信学会（ISS・HCG）主催の第23回情報科学技術フォーラム（FIT2024）で「オートエンコーダとOC-SVMを用いた転倒検出手法の開発」に関して口頭発表し、**FIT奨励賞受賞** [[論文]](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000016740&expandable=2&ConfCd=F&session_num=7h&lecture_number=F-051&year=2024&conf_type=F) [[大学]](https://www.inf.shizuoka.ac.jp/news/3117/) [[学会]](https://www.ipsj.or.jp/award/fit-syorei.html)|
 |2023.12|静岡大学情報学部主催の第21回情報学ワークショップ（WiNF2023）で「OC-SVMを用いた転倒検知手法の検討」に関してポスター発表 [[link]](https://sites.google.com/view/winf2023/home)|
 |2023.11|組込みソフトウェア技術コンソーシアム（HEPT）の「IoTシステムアーキテクト養成プログラム」に参加し、実施されたハッカソンで「レシピ提案システム」に関して発表 [[link]](https://hept.inf.shizuoka.ac.jp/programs/iot-architect/)|
+|2023.04|意匠「稼働状況表示用画像」意匠登録第1743115号（D1743115） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013008/30/ja) <br>関連/類似意匠「稼働状況表示用画像」意匠登録第1743154号（D1743154） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013009/30/ja)|
 |2023.04|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）に配属 [[link]](https://wwp.shizuoka.ac.jp/minelab/)|
 |2023.04|静岡大学大学院総合科学技術研究科情報学専攻（社会人特別選抜）に入学【修士課程】 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
+|2023.03|意匠「稼働状況表示用画像」意匠登録第1740551号（D1740551） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013010/30/ja)|
 |2022.06|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）の研究補助（～2023/03）|
 |2021.12|組込みソフトウェア技術コンソーシアム（HEPT）の「オブジェクト指向設計講座」に参加 [[link]](https://hept.inf.shizuoka.ac.jp/programs/object/)|
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
