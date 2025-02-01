@@ -85,8 +85,8 @@ OC-SVM
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
 |2021.09|Qiita株式会社主催のQiita 10周年記念イベント - 10年後のために今勉強しておきたい技術で「クラウドしか勝たん！」に関して記事投稿し、**Qiita10周年記念プレゼント対象に当選**（Qiitanぬいぐるみと10周年記念ステッカーをGET!!） [[イベント内容]](https://qiita.com/official-events/12fc7bacec894d33a981) [[投稿記事]](https://qiita.com/michimichix521/items/c0cb92a34002b977882d)|
 |2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
-|2020.05|DGSHAPE株式会社に出向し、アプリ開発部門でDGSHAPE CLOUD開発業務に従事（～現在）[[link]](https://dgshape.global/)|
-|2020.04|ローランド ディー.ジー.株式会社に入社 [[link]](https://www.rolanddg.com/)|
+|2020.05|DGSHAPE株式会社に出向し、アプリ開発部門でDGSHAPE CLOUD開発業務に従事（～現在）[[HP]](https://dgshape.global/) [[紹介ページ]](https://dgshape.com/cloud/)|
+|2020.04|ローランド ディー.ジー.株式会社に入社 [[HP]](https://www.rolanddg.com/)|
 |2020.03|関東学院大学理工/建築・環境学会、理工学部/建築・環境学部教養学会  **学修優秀賞**（**活動優秀賞**）**受賞** [[link]](https://rkgakkai.kanto-gakuin.ac.jp/files/prize_act/act2019.pdf)|
 |2020.03|関東学院大学理工学部理工学科情報ネット・メディアコースを卒業し、**学士**（**理工学**）を取得 <br>「卒業論文：試行錯誤の変動係数に着目した能動性の定量的な評価」|
 |2020.01|日刊工業新聞社、モノづくり日本会議主催の理工系学生科学技術論文コンクールで「インターネット上での情報共有の場」に関して発表 [[link]](https://www.rikokei.jp/)|
