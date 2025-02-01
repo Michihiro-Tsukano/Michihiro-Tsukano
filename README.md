@@ -131,6 +131,11 @@ OC-SVM
 |2010.04|剣道、二段（～2013.03） [[link]](https://www.kendo.or.jp/)|
 |2004.04|空手（東真会）、初段（～2010.03） [[link]](https://toshinkai.jp/)|
 
+### 東京ディズニーリゾート
+|年月|概要|
+|:--|:--|
+|2025.06|東京ディズニーシー・ファンタジースプリングスホテル ファンタジーシャトー ローズコートサイド スーペリアルームに宿泊 [[link]](https://www.tokyodisneyresort.jp/hotel/fsh.html)|
+|2024.05|東京ディズニーシー・ホテルミラコスタ スペチアーレ・ルーム&スイート ポルト・パラディーゾ・サイド ポルト・パラディーゾ・スイートに宿泊  [[link]](https://www.tokyodisneyresort.jp/hotel/dhm.html)|
 ### その他
 - Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）[[link]](https://qiita.com/michimichix521)
 - ペット飼育（熱帯魚、ゴールデンハムスター、フェレット）
