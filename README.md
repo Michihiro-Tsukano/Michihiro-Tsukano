@@ -115,6 +115,8 @@ OC-SVM
 
 <img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" width="500px">
 
+<br>
+
 ### 音楽
 |年月|概要|
 |:--|:--|
@@ -125,17 +127,24 @@ OC-SVM
 
 <img src="https://github.com/user-attachments/assets/70200e3a-556d-4b40-bc9f-1a19adff91e6" alt="カラオケ得点" width="500px">
 
+<br>
+
 ### 武道
 |年月|概要|
 |:--|:--|
 |2010.04|剣道、二段（～2013.03） [[link]](https://www.kendo.or.jp/)|
 |2004.04|空手（東真会）、初段（～2010.03） [[link]](https://toshinkai.jp/)|
 
+<br>
+
 ### 東京ディズニーリゾート
 |年月|概要|
 |:--|:--|
 |2025.06|東京ディズニーシー・ファンタジースプリングスホテル ファンタジーシャトー ローズコートサイド スーペリアルームに宿泊 [[link]](https://www.tokyodisneyresort.jp/hotel/fsh.html)|
 |2024.05|東京ディズニーシー・ホテルミラコスタ スペチアーレ・ルーム&スイート ポルト・パラディーゾ・サイド ポルト・パラディーゾ・スイートに宿泊  [[link]](https://www.tokyodisneyresort.jp/hotel/dhm.html)|
+
+<br>
+
 ### その他
 - Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）[[link]](https://qiita.com/michimichix521)
 - ペット飼育（熱帯魚、ゴールデンハムスター、フェレット）
