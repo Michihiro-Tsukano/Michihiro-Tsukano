@@ -91,7 +91,7 @@ OC-SVM
 |2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
 |2020.09|三級知的財産管理技能士（管理業務）を取得 [[link]](https://www.kentei-info-ip-edu.org/)|
 |2020.05|DGSHAPE株式会社に出向し、アプリ開発部門でDGSHAPE CLOUD開発業務に従事（～現在）[[HP]](https://dgshape.global/) [[紹介ページ]](https://dgshape.com/cloud/)|
-|2020.04|ローランド ディー.ジー.株式会社に入社 [[HP]](https://www.rolanddg.com/)|
+|2020.04|ローランド ディー.ジー.株式会社に入社 [[HP]](https://www.rolanddg.com/) [[社員インタビュー]](https://recruit.rolanddg.com/ja/person/interview/new-graduate-01/)|
 |2020.03|関東学院大学理工/建築・環境学会、理工学部/建築・環境学部教養学会  **学修優秀賞**（**活動優秀賞**）**受賞** [[link]](https://rkgakkai.kanto-gakuin.ac.jp/files/prize_act/act2019.pdf)|
 |2020.03|関東学院大学理工学部理工学科情報ネット・メディアコースを卒業し、**学士**（**理工学**）を取得 <br>「卒業論文：試行錯誤の変動係数に着目した能動性の定量的な評価」|
 |2020.01|日刊工業新聞社、モノづくり日本会議主催の理工系学生科学技術論文コンクールで「インターネット上での情報共有の場」に関して発表 [[link]](https://www.rikokei.jp/)|
