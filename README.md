@@ -79,10 +79,10 @@ OC-SVM
 |2023.03|一般社団法人情報処理学会主催の第86回全国大会に聴講参加 [[link]](https://www.ipsj.or.jp/event/taikai/86/index.html)|
 |2023.12|静岡大学情報学部主催の第21回情報学ワークショップ（WiNF2023）で「OC-SVMを用いた転倒検知手法の検討」に関してポスター発表 [[link]](https://sites.google.com/view/winf2023/home)|
 |2023.11|組込みソフトウェア技術コンソーシアム（HEPT）の「IoTシステムアーキテクト養成プログラム」に参加 [[link]](https://hept.inf.shizuoka.ac.jp/programs/iot-architect/)|
-|2023.04|意匠「稼働状況表示用画像」意匠登録第1743115号（D1743115） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013008/30/ja) <br>関連/類似意匠「稼働状況表示用画像」意匠登録第1743154号（D1743154） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013009/30/ja)|
+|2023.04|意匠「稼働状況表示用画像」意匠登録第1743115号（D1743115） [[詳細]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013008/30/ja) <br>関連/類似意匠「稼働状況表示用画像」意匠登録第1743154号（D1743154） [[詳細]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013009/30/ja)|
 |2023.04|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）に配属 [[link]](https://wwp.shizuoka.ac.jp/minelab/)|
 |2023.04|静岡大学大学院総合科学技術研究科情報学専攻（社会人特別選抜）に入学【修士課程】 [[link]](https://www.inf.shizuoka.ac.jp/graduate/)|
-|2023.03|意匠「稼働状況表示用画像」意匠登録第1740551号（D1740551） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013010/30/ja)|
+|2023.03|意匠「稼働状況表示用画像」意匠登録第1740551号（D1740551） [[詳細]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013010/30/ja)|
 |2022.06|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）の研究補助（～2023/03）|
 |2021.12|組込みソフトウェア技術コンソーシアム（HEPT）の「オブジェクト指向設計講座」に参加 [[link]](https://hept.inf.shizuoka.ac.jp/programs/object/)|
 |2021.10|Microsoft Certified: Azure Fundamentals を取得 [[オンライン証明]](https://learn.microsoft.com/api/credentials/share/ja-jp/19830817/4EBC140CAB897BBA?sharingId=508E38D0873AB9C8) [[概要]](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)|
