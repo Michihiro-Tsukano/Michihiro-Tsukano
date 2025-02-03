@@ -85,9 +85,11 @@ OC-SVM
 |2023.03|意匠「稼働状況表示用画像」意匠登録第1740551号（D1740551） [[link]](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2022-013010/30/ja)|
 |2022.06|静岡大学情報学部情報科学科 マルチモーダルAI/IoT研究室（峰野研究室）の研究補助（～2023/03）|
 |2021.12|組込みソフトウェア技術コンソーシアム（HEPT）の「オブジェクト指向設計講座」に参加 [[link]](https://hept.inf.shizuoka.ac.jp/programs/object/)|
+|2021.10|Microsoft Certified: Azure Fundamentals を取得 [[オンライン証明]](https://learn.microsoft.com/api/credentials/share/ja-jp/19830817/4EBC140CAB897BBA?sharingId=508E38D0873AB9C8) [[概要]](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)|
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
 |2021.09|Qiita株式会社主催のQiita 10周年記念イベント - 10年後のために今勉強しておきたい技術で「クラウドしか勝たん！」に関して記事投稿し、**Qiita10周年記念プレゼント対象に当選**（Qiitanぬいぐるみと10周年記念ステッカーをGET!!） [[イベント内容]](https://qiita.com/official-events/12fc7bacec894d33a981) [[投稿記事]](https://qiita.com/michimichix521/items/c0cb92a34002b977882d)|
 |2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
+|2020.09|三級知的財産管理技能士（管理業務）を取得 [[link]](https://www.kentei-info-ip-edu.org/)|
 |2020.05|DGSHAPE株式会社に出向し、アプリ開発部門でDGSHAPE CLOUD開発業務に従事（～現在）[[HP]](https://dgshape.global/) [[紹介ページ]](https://dgshape.com/cloud/)|
 |2020.04|ローランド ディー.ジー.株式会社に入社 [[HP]](https://www.rolanddg.com/)|
 |2020.03|関東学院大学理工/建築・環境学会、理工学部/建築・環境学部教養学会  **学修優秀賞**（**活動優秀賞**）**受賞** [[link]](https://rkgakkai.kanto-gakuin.ac.jp/files/prize_act/act2019.pdf)|
