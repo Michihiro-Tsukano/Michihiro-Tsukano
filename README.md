@@ -88,7 +88,7 @@ OC-SVM
 |2021.10|Microsoft Certified: Azure Fundamentals を取得 [[オンライン証明]](https://learn.microsoft.com/api/credentials/share/ja-jp/19830817/4EBC140CAB897BBA?sharingId=508E38D0873AB9C8) [[概要]](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)|
 |2021.09|株式会社集英社主催の集英社ゲームクリエイターズCAMP オリジナルゲームコンテストGAME BBQ vol.01で「Survival Simulator」に関して発表 [[link]](https://game-creators.camp/contests/game_bbqvol01)|
 |2021.09|Qiita株式会社主催のQiita 10周年記念イベント - 10年後のために今勉強しておきたい技術で「クラウドしか勝たん！」に関して記事投稿し、**Qiita10周年記念プレゼント対象に当選**（Qiitanぬいぐるみと10周年記念ステッカーをGET!!） [[イベント内容]](https://qiita.com/official-events/12fc7bacec894d33a981) [[投稿記事]](https://qiita.com/michimichix521/items/c0cb92a34002b977882d)|
-|2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
+|2020.09|みらいごとラボ（M-Lab株式会社）で、プログラミング講師業務（オンライン）に従事（～2023.03） [[link]](https://miraigotolab.co.jp/)|
 |2020.09|三級知的財産管理技能士（管理業務）を取得 [[link]](https://www.kentei-info-ip-edu.org/)|
 |2020.05|DGSHAPE株式会社に出向し、アプリ開発部門でDGSHAPE CLOUD開発業務に従事（～現在）[[HP]](https://dgshape.global/) [[紹介ページ]](https://dgshape.com/cloud/)|
 |2020.04|ローランド ディー.ジー.株式会社に入社 [[HP]](https://www.rolanddg.com/) [[社員インタビュー]](https://recruit.rolanddg.com/ja/person/interview/new-graduate-01/)|
@@ -104,7 +104,7 @@ OC-SVM
 |2018.11|NHK for School主催のワイワイプログラミングWhy!?大喜利で「目と耳で判断しろ！計算記号当てゲーム」に関して発表し、**入賞受賞**（T__michiさん） [[link]](https://www.nhk.or.jp/school/programming/oogiri/works_26.html)|
 |2018.10|関東学院大学理工学部理工学科情報ネット・メディアコース ネットワークセキュリティ研究室（塚田研究室）に配属 [[link]](http://home.kanto-gakuin.ac.jp/~tsukada/tsukada-lab/index.html)|
 |2018.08|ローランド ディー.ジー.株式会社のDGSHAPEインターンシップに参加し、アプリ開発業務に従事（1か月間） [[link]](https://www.rolanddg.com/ja/recruit/internship)|
-|2018.04|株式会社LITALICOで、プログラミング講師業務に従事（～2020.03） [[link]](https://wonder.litalico.jp/)|
+|2018.04|株式会社LITALICOで、プログラミング講師業務（対面）に従事（～2020.03） [[link]](https://wonder.litalico.jp/)|
 |2016.04|関東学院大学理工学部理工学科情報ネット・メディアコース（センター利用選抜）に入学【学士課程】 [[link]](https://netmedia.kanto-gakuin.ac.jp/)|
 
 <br>
