@@ -95,7 +95,7 @@ OC-SVM
 |2020.03|関東学院大学理工/建築・環境学会、理工学部/建築・環境学部教養学会  **学修優秀賞**（**活動優秀賞**）**受賞** [[link]](https://rkgakkai.kanto-gakuin.ac.jp/files/prize_act/act2019.pdf)|
 |2020.03|関東学院大学理工学部理工学科情報ネット・メディアコースを卒業し、**学士**（**理工学**）を取得 <br>「卒業論文：試行錯誤の変動係数に着目した能動性の定量的な評価」|
 |2020.01|日刊工業新聞社、モノづくり日本会議主催の理工系学生科学技術論文コンクールで「インターネット上での情報共有の場」に関して発表 [[link]](https://www.rikokei.jp/)|
-|2019.11|神奈川県情報サービス産業協会主催の学生ITコンテスト2019で「暗号通貨シミュレータ」に関して発表し、**ITプロダクツ部門優秀賞受賞** [[link]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)|
+|2019.11|神奈川県情報サービス産業協会主催の学生ITコンテスト2019で「暗号通貨シミュレータ」に関して発表し、**ITプロダクツ部門優秀賞受賞**（賞金：5万円） [[link]](https://univ.kanto-gakuin.ac.jp/topics/20191212-3.html)|
 |2019.11|KPMG Ignition Tokyo主催の第1回KPMGジャパン秘密計算ハッカソンで「秘密計算を用いた進路評価モデルの開発」に関して発表 [[KPMG]](https://kpmg.com/jp/ja/home/events/2020/08/hackathon-2019nov.html) [[イベントレポート]](https://www.businessinsider.jp/post-202846)|
 |2019.10|関東学院大学理工学部理工学科情報ネット・メディアコースの授業「コンピュータプログラミングⅡ」「コンピュータプログラミングⅣ」「Visual Basic」のSA/TA業務に従事（～2020.01）|
 |2019.09|株式会社GIFMAGAZINE、アドビシステムズ株式会社主催のtheGIFs2019 Award of GIF creatorで「回転率！」を発表 [[link]](https://gifmagazine.co.jp/pr/?p=11019)|
