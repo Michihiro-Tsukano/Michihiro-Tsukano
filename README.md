@@ -110,19 +110,28 @@ OC-SVM
 <br>
 
 ## 活動履歴（趣味）
-### 宿泊を伴う旅行（ビジネスホテルを除く）
+### 宿泊を伴う旅行+α（ビジネスホテルを除く）
 |年月|概要|
 |:--|:--|
 |2025.06|[予定] 東京ディズニーシー・ファンタジースプリングスホテル ファンタジーシャトー ローズコートサイド スーペリアルーム（パークビュー）に宿泊 [[link]](https://www.tokyodisneyresort.jp/hotel/fsh.html)【千葉】|
 |2025.05|[予定] フォーシーズンズ リゾート モルディブ アット ランダー ギラーヴァル [[link]](https://www.fourseasons.com/jp/maldiveslg/)【モルディブ】|
 |2025.05|[予定] フォーシーズンズ リゾート モルディブ アット クダフラ [[link]](https://www.fourseasons.com/jp/maldiveskh/)【モルディブ】|
+|2024.12|THE ORIENTAL TERRACE クリスマスディナー [[link]](https://torizen.co.jp/restaurant/)【静岡】|
+|2024.11|沖縄美ら海水族館 [[link]](https://churaumi.okinawa/)【沖縄】|
 |2024.11|カフー リゾート フチャク コンド・ホテル [[link]](https://www.kafuu-okinawa.jp/)【沖縄】|
 |2024.09|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
+|2024.09|THE KOBE CRUISE コンチェルト トワイライト・ナイトクルーズ [[link]](https://thekobecruise.com/)【兵庫】|
 |2024.09|神戸メリケンパークオリエンタルホテル モデレートダブル ウエストビュー [[link]](https://www.kobe-orientalhotel.co.jp/)【兵庫】|
 |2024.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
 |2024.05|東京ディズニーシー・ホテルミラコスタ スペチアーレ・ルーム&スイート ポルト・パラディーゾ・サイド ポルト・パラディーゾ・スイートに宿泊  [[link]](https://www.tokyodisneyresort.jp/hotel/dhm.html)【千葉】|
+|2024.01|めいほうスキー場 [[link]](https://www.meihoski.co.jp/)【岐阜】|
+|2023.12|THE ORIENTAL TERRACE クリスマスディナー [[link]](https://torizen.co.jp/restaurant/)【静岡】|
+|2023.12|富士サファリパーク [[link]](https://www.fujisafari.co.jp/)【静岡】|
 |2023.08|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
 |2023.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
+|2023.02|東京スカイツリー [[link]](https://www.tokyo-skytree.jp/)【東京】|
+|2023.02|チームラボプラネッツ TOKYO DMM [[link]](https://www.team-lab.com/)【東京】|
+|2023.01|箱根小涌園ユネッサン 森の湯 [[link]](https://www.yunessun.com/)【神奈川】|
 |2022.10|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
 |2022.08|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
 
