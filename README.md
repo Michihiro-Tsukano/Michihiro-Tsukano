@@ -117,8 +117,8 @@ OC-SVM
 |2025.05|[予定] フォーシーズンズ リゾート モルディブ アット ランダー ギラーヴァル [[link]](https://www.fourseasons.com/jp/maldiveslg/)【モルディブ】|
 |2025.05|[予定] フォーシーズンズ リゾート モルディブ アット クダフラ [[link]](https://www.fourseasons.com/jp/maldiveskh/)【モルディブ】|
 |2024.12|THE ORIENTAL TERRACE クリスマスディナー [[link]](https://torizen.co.jp/restaurant/)【静岡】|
-|2024.11|沖縄美ら海水族館 [[link]](https://churaumi.okinawa/)【沖縄】|
-|2024.11|カフー リゾート フチャク コンド・ホテル [[link]](https://www.kafuu-okinawa.jp/)【沖縄】|
+|2024.12|沖縄美ら海水族館 [[link]](https://churaumi.okinawa/)【沖縄】|
+|2024.12|カフー リゾート フチャク コンド・ホテル [[link]](https://www.kafuu-okinawa.jp/)【沖縄】|
 |2024.09|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
 |2024.09|THE KOBE CRUISE コンチェルト トワイライト・ナイトクルーズ [[link]](https://thekobecruise.com/)【兵庫】|
 |2024.09|神戸メリケンパークオリエンタルホテル モデレートダブル ウエストビュー [[link]](https://www.kobe-orientalhotel.co.jp/)【兵庫】|
