@@ -110,38 +110,6 @@ OC-SVM
 <br>
 
 ## 活動履歴（趣味）
-### ゲーム
-|年月|概要|
-|:--|:--|
-|2024.02|クラッシュオブクランのeスポーツClash Champsで「TOWN HALL 15 TROPHY RACE」に出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)|
-|2013.04|クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812（～現在）|
-|2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
-|2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
-
-<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" width="500px">
-
-<br>
-
-### 音楽
-|年月|概要|
-|:--|:--|
-|2023.01|カラオケDAM精密採点Aiで **95.808** 点を取得|
-|2017.08|NHKのど自慢大会の予選に出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)|
-|2017.04|SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（～2018.03）[[link]](https://www.seal-musicschool.jp/)|
-|2013.04|音楽アプリやTwitter、YouTube 等で歌ってみた活動（～2018.06）|
-
-<img src="https://github.com/user-attachments/assets/70200e3a-556d-4b40-bc9f-1a19adff91e6" alt="カラオケ得点" width="500px">
-
-<br>
-
-### 武道
-|年月|概要|
-|:--|:--|
-|2010.04|剣道、二段（～2013.03） [[link]](https://www.kendo.or.jp/)|
-|2004.04|空手（東真会）、初段（～2010.03） [[link]](https://toshinkai.jp/)|
-
-<br>
-
 ### 宿泊を伴う旅行（ビジネスホテルを除く）
 |年月|概要|
 |:--|:--|
@@ -154,11 +122,35 @@ OC-SVM
 |2024.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
 |2024.05|東京ディズニーシー・ホテルミラコスタ スペチアーレ・ルーム&スイート ポルト・パラディーゾ・サイド ポルト・パラディーゾ・スイートに宿泊  [[link]](https://www.tokyodisneyresort.jp/hotel/dhm.html)【千葉】|
 |2023.08|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
-|2023.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル [[link]](https://thenomadhotels.jp/)【山梨】|
+|2023.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
 |2022.10|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
-|2022.08|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル [[link]](https://thenomadhotels.jp/)【山梨】|
+|2022.08|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
 
-<br>
+### ゲーム
+|年月|概要|
+|:--|:--|
+|2024.02|クラッシュオブクランのeスポーツClash Champsで「TOWN HALL 15 TROPHY RACE」に出場（176 / 907人中）[[link]](https://www.clashchamps.com/leaderboard/?tid=8)|
+|2013.04|クラッシュオブクラン（Clash of Clans）、ランク 214、最高トロフィー数 5812（～現在）|
+|2013.03|パズドラ、ランク 846、王冠 6（～2016.03）|
+|2011.04|PHANTASY STAR PORTABLE2 INFINITY、プレイ時間 2500 時間（～2013.03） [[link1]](https://phantasystar.sega.jp/psp2i/) [[link2]](http://www.psp2infinity.jp/pc/)|
+
+<img src="https://github.com/user-attachments/assets/a6195ec6-48b6-44e6-b86a-15285d959e3a" alt="CoC-eスポーツ" width="500px">
+
+### 音楽
+|年月|概要|
+|:--|:--|
+|2023.01|カラオケDAM精密採点Aiで **95.808** 点を取得|
+|2017.08|NHKのど自慢大会の予選に出場 [[link]](https://www.nhk.jp/p/nodojiman/ts/N8GR183W9M/)|
+|2017.04|SEAL MUSIC SCHOOL 本厚木校のボーカルコース・DTM に入校（～2018.03）[[link]](https://www.seal-musicschool.jp/)|
+|2013.04|音楽アプリやTwitter、YouTube 等で歌ってみた活動（～2018.06）|
+
+<img src="https://github.com/user-attachments/assets/70200e3a-556d-4b40-bc9f-1a19adff91e6" alt="カラオケ得点" width="500px">
+
+### 武道
+|年月|概要|
+|:--|:--|
+|2010.04|剣道、二段（～2013.03） [[link]](https://www.kendo.or.jp/)|
+|2004.04|空手（東真会）、初段（～2010.03） [[link]](https://toshinkai.jp/)|
 
 ### その他
 - Qiitaで技術記事の執筆（投稿記事 70 本、1025 Contributions）[[link]](https://qiita.com/michimichix521)
