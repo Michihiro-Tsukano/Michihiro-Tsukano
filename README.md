@@ -123,6 +123,7 @@ OC-SVM
 |2024.09|THE KOBE CRUISE コンチェルト トワイライト・ナイトクルーズ [[link]](https://thekobecruise.com/)【兵庫】|
 |2024.09|神戸メリケンパークオリエンタルホテル モデレートダブル ウエストビュー [[link]](https://www.kobe-orientalhotel.co.jp/)【兵庫】|
 |2024.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
+|2024.06|ワーナー ブラザース スタジオツアー東京 – メイキング・オブ・ハリー・ポッター [[link]](https://www.wbstudiotour.jp/)【東京】|
 |2024.05|東京ディズニーシー・ホテルミラコスタ スペチアーレ・ルーム&スイート ポルト・パラディーゾ・サイド ポルト・パラディーゾ・スイートに宿泊  [[link]](https://www.tokyodisneyresort.jp/hotel/dhm.html)【千葉】|
 |2024.01|めいほうスキー場 [[link]](https://www.meihoski.co.jp/)【岐阜】|
 |2023.12|THE ORIENTAL TERRACE クリスマスディナー [[link]](https://torizen.co.jp/restaurant/)【静岡】|
