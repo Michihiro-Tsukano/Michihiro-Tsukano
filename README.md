@@ -127,6 +127,7 @@ OC-SVM
 |2024.01|めいほうスキー場 [[link]](https://www.meihoski.co.jp/)【岐阜】|
 |2023.12|THE ORIENTAL TERRACE クリスマスディナー [[link]](https://torizen.co.jp/restaurant/)【静岡】|
 |2023.12|富士サファリパーク [[link]](https://www.fujisafari.co.jp/)【静岡】|
+|2023.09|世界淡水魚園水族館 アクア・トトぎふ [[link]](https://aquatotto.com/)【岐阜】|
 |2023.08|御前崎 割烹民宿 聖火 [[link]](https://m-seika.com/)【静岡】|
 |2023.07|グランピング：ザ ノマド 八ヶ岳 \| THE NOMAD Mt. YATSUGATAKE タイニーホテル クワッド [[link]](https://thenomadhotels.jp/)【山梨】|
 |2023.02|東京スカイツリー [[link]](https://www.tokyo-skytree.jp/)【東京】|
