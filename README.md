@@ -114,6 +114,7 @@ OC-SVM
 ### 宿泊を伴う旅行+α（ビジネスホテルを除く）
 |年月|概要|
 |:--|:--|
+|2025.09|[予定] 2025年日本国際博覧会（Expo 2025 Osaka, Kansai, Japan）|
 |2025.06|[予定] 東京ディズニーシー・ファンタジースプリングスホテル ファンタジーシャトー ローズコートサイド スーペリアルーム（パークビュー）に宿泊 [[link]](https://www.tokyodisneyresort.jp/hotel/fsh.html)【千葉】|
 |2025.05|[予定] フォーシーズンズ リゾート モルディブ アット ランダー ギラーヴァル [[link]](https://www.fourseasons.com/jp/maldiveslg/)【モルディブ】|
 |2025.05|[予定] フォーシーズンズ リゾート モルディブ アット クダフラ [[link]](https://www.fourseasons.com/jp/maldiveskh/)【モルディブ】|
