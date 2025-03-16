@@ -71,12 +71,15 @@ OC-SVM
 ## 活動履歴（コンピュータサイエンス関係）
 |年月|概要|
 |:--|:--|
+|2025.04|[予定] 情報処理学会 正会員 [[link]](https://www.ipsj.or.jp/)|
 |2025.03|[予定] 静岡大学大学院総合科学技術研究科情報学専攻を修了し、**修士**（**情報学**）を取得 <br>「修士論文：ウェアラブルセンサのスペクトル可視化による転倒検出手法の研究」|
 |2025.03|情報処理学会主催の第87回全国大会に聴講参加 [[link]](https://www.ipsj.or.jp/event/taikai/87/index.html)|
+|2025.03|情報処理学会論文誌 コンシューマ・デバイス&システム（CDSトランザクション46号）へ「ウェアラブルセンサのスペクトル可視化による転倒検出手法の検討」に関して投稿（査読中） [[link]](https://www.cds-trans.com/index.php/trans)|
 |2025.02|JAZUG Shizuoka主催の第1回 JAZUG Shizuoka リブートイベントで「Azure利用におけるコスト節約術」に関してLT発表 [[イベント情報]](https://jazug.connpass.com/event/336487/) [[発表スライド]](https://www.docswell.com/s/6910381277/5G1J3M-2025-02-16-133710)|
 |2025.01|情報処理学会 コンシューマ・デバイス＆システム（CDS）研究会主催の第42回研究発表会（CDS42）で「ウェアラブルセンサのスペクトル可視化による転倒検出AIの開発と評価」に関して口頭発表 [[論文]](http://id.nii.ac.jp/1001/00241857/)|
 |2024.11|特許「加工データ確認装置および切削加工システム」特願2023-074745、特開2024-159022 [[概要]](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202403003271498138) [[詳細]](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-159022/11/ja)|
 |2024.09|情報処理学会、電子情報通信学会（ISS・HCG）主催の第23回情報科学技術フォーラム（FIT2024）で「オートエンコーダとOC-SVMを用いた転倒検出手法の開発」に関して口頭発表し、**FIT奨励賞受賞** [[論文]](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000016740&expandable=2&ConfCd=F&session_num=7h&lecture_number=F-051&year=2024&conf_type=F) [[大学]](https://www.inf.shizuoka.ac.jp/news/3117/) [[学会]](https://www.ipsj.or.jp/award/fit-syorei.html)|
+|2024.04|情報処理学会 学生会員 [[link]](https://www.ipsj.or.jp/) \| コンシューマ・デバイス＆システム（CDS）研究会に所属 [[link]](https://www.sig-cds.net/)|
 |2024.03|情報処理学会主催の第86回全国大会に聴講参加 [[link]](https://www.ipsj.or.jp/event/taikai/86/index.html)|
 |2023.12|静岡大学情報学部主催の第21回情報学ワークショップ（WiNF2023）で「OC-SVMを用いた転倒検知手法の検討」に関してポスター発表 [[link]](https://sites.google.com/view/winf2023/home)|
 |2023.11|組込みソフトウェア技術コンソーシアム（HEPT）の「IoTシステムアーキテクト養成プログラム」に参加 [[link]](https://hept.inf.shizuoka.ac.jp/programs/iot-architect/)|
